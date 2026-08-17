@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Ive's Library</title>
+  <meta name="description" content="Ive's Library — a family library of 455 books across 13 collections: saints and popes, Our Lady, prayer, catechism, Catholic authors, and stories for the little ones." />
+  <meta property="og:title" content="Ive's Library" />
+  <meta property="og:description" content="455 books · 13 collections · English & Spanish" />
+  <meta name="theme-color" content="#120c09" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%23120c09'/%3E%3Ctext x='32' y='44' text-anchor='middle' font-family='Georgia,serif' font-size='36' font-style='italic' fill='%23d9b26a'%3EI%3C/text%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,400;8..60,500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <a class="skip" href="#collections">Skip to the shelves</a>
+  <div class="progress" aria-hidden="true"><span id="progressBar"></span></div>
+
+  <!-- ===== NAV ===== -->
+  <header class="nav" id="nav">
+    <div class="nav-inner">
+      <a class="brand" href="#top" aria-label="Ive's Library — back to top">
+        <span class="monogram">I</span>
+        <span class="brand-text">Ive’s Library</span>
+      </a>
+      <nav class="nav-collections" id="navCollections" aria-label="Collections"></nav>
+      <div class="nav-tools">
+        <label class="search" for="searchInput">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <input id="searchInput" type="search" placeholder="Search titles, authors…" autocomplete="off" spellcheck="false" />
+          <button class="search-clear" id="searchClear" type="button" aria-label="Clear search" hidden>×</button>
+        </label>
+        <button class="menu-btn" id="menuBtn" type="button" aria-label="Open collections menu" aria-expanded="false">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+    <div class="nav-sheet" id="navSheet" hidden></div>
+  </header>
+
+  <main id="top">
+    <!-- ===== HERO ===== -->
+    <section class="hero" id="hero">
+      <div class="hero-wall" id="heroWall" aria-hidden="true"></div>
+      <div class="hero-veil" aria-hidden="true"></div>
+      <div class="hero-content">
+        <p class="eyebrow reveal-hero" style="--d:0ms">A family library</p>
+        <h1 class="hero-title reveal-hero" style="--d:120ms"><span>Ive’s</span> <em>Library</em></h1>
+        <div class="ornament reveal-hero" style="--d:320ms" aria-hidden="true">
+          <svg viewBox="0 0 320 24" preserveAspectRatio="none"><path d="M0 12h120M200 12h120" /><path d="M160 2c-4 6-9 9-16 10 7 1 12 4 16 10 4-6 9-9 16-10-7-1-12-4-16-10Z" /><circle cx="134" cy="12" r="1.6"/><circle cx="186" cy="12" r="1.6"/></svg>
+        </div>
+        <p class="hero-sub reveal-hero" style="--d:420ms" id="heroSub"></p>
+        <div class="hero-cta reveal-hero" style="--d:560ms">
+          <a class="btn btn-gold" href="#collections">Browse the shelves</a>
+          <a class="btn btn-ghost" href="#stats">About the collection</a>
+        </div>
+      </div>
+      <a class="scroll-cue" href="#stats" aria-label="Scroll down"><span></span></a>
+    </section>
+
+    <!-- ===== STATS ===== -->
+    <section class="stats" id="stats">
+      <div class="container">
+        <ul class="stat-grid" id="statGrid"></ul>
+        <p class="stats-note reveal" id="statsNote"></p>
+      </div>
+    </section>
+
+    <!-- ===== COLLECTIONS OVERVIEW ===== -->
+    <section class="collections" id="collections">
+      <div class="container">
+        <header class="section-head reveal">
+          <p class="eyebrow">The shelves</p>
+          <h2>Thirteen collections, one library</h2>
+          <p class="lede">Every book is shelved the way Ive organizes them — pick a collection to jump straight to its shelf, or search from the top of the page.</p>
+        </header>
+        <div class="collection-grid" id="collectionGrid"></div>
+      </div>
+    </section>
+
+    <!-- ===== FILTER BAR ===== -->
+    <div class="filterbar" id="filterbar">
+      <div class="container filterbar-inner">
+        <div class="chips" role="group" aria-label="Filter by language">
+          <button class="chip is-active" data-lang="all" type="button">All</button>
+          <button class="chip" data-lang="English" type="button">English</button>
+          <button class="chip" data-lang="Spanish" type="button">Español</button>
+          <button class="chip chip-video" data-video="1" type="button" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg> With video</button>
+        </div>
+        <p class="result-count" id="resultCount" aria-live="polite"></p>
+      </div>
+    </div>
+
+    <!-- ===== SHELVES ===== -->
+    <div id="shelves"></div>
+
+    <section class="empty" id="emptyState" hidden>
+      <div class="container">
+        <p class="empty-glyph" aria-hidden="true">❧</p>
+        <h3>Nothing on the shelves matches that.</h3>
+        <p>Try a different word, or <button class="linklike" id="emptyReset" type="button">clear the search</button>.</p>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="ornament small" aria-hidden="true">
+        <svg viewBox="0 0 320 24" preserveAspectRatio="none"><path d="M0 12h120M200 12h120" /><path d="M160 2c-4 6-9 9-16 10 7 1 12 4 16 10 4-6 9-9 16-10-7-1-12-4-16-10Z" /></svg>
+      </div>
+      <p class="footer-title">Ive’s Library</p>
+      <p class="footer-sub" id="footerSub"></p>
+      <p class="footer-love">Made with love, for Ive.</p>
+    </div>
+  </footer>
+
+  <button class="to-top" id="toTop" type="button" aria-label="Back to top">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5m-7 7 7-7 7 7"/></svg>
+  </button>
+
+  <!-- ===== BOOK DIALOG ===== -->
+  <dialog class="book-dialog" id="bookDialog" aria-labelledby="dlgTitle">
+    <div class="dlg-ambient" id="dlgAmbient" aria-hidden="true"></div>
+    <button class="dlg-close" id="dlgClose" type="button" aria-label="Close">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+    </button>
+    <button class="dlg-nav prev" id="dlgPrev" type="button" aria-label="Previous book"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m15 5-7 7 7 7"/></svg></button>
+    <button class="dlg-nav next" id="dlgNext" type="button" aria-label="Next book"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 5 7 7-7 7"/></svg></button>
+    <div class="dlg-scroll">
+      <div class="dlg-grid">
+        <div class="dlg-cover-col">
+          <div class="dlg-cover" id="dlgCoverWrap"><img id="dlgCover" alt="" /></div>
+          <div class="dlg-links" id="dlgLinks"></div>
+        </div>
+        <div class="dlg-body">
+          <div class="dlg-tags" id="dlgTags"></div>
+          <h2 class="dlg-title" id="dlgTitle"></h2>
+          <p class="dlg-subtitle" id="dlgSubtitle"></p>
+          <p class="dlg-author" id="dlgAuthor"></p>
+          <dl class="dlg-meta" id="dlgMeta"></dl>
+          <section class="dlg-section" id="dlgSummarySec">
+            <h3>About this book</h3>
+            <div class="dlg-summary" id="dlgSummary"></div>
+            <p class="dlg-source" id="dlgSource"></p>
+          </section>
+          <section class="dlg-section" id="dlgVideoSec" hidden>
+            <h3>Watch</h3>
+            <div class="video-frame" id="dlgVideo"></div>
+            <p class="video-cap" id="dlgVideoCap"></p>
+          </section>
+        </div>
+      </div>
+    </div>
+  </dialog>
+
+  <script src="data/books.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

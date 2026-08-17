@@ -1,0 +1,3072 @@
+{
+ "4": {
+  "source": "amazon-isbn",
+  "asin": "8490614385",
+  "file": "4.jpg",
+  "w": 314,
+  "h": 500
+ },
+ "3": {
+  "source": "amazon-isbn",
+  "asin": "1621384896",
+  "file": "3.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "1": {
+  "source": "amazon-isbn",
+  "asin": "1682782956",
+  "file": "1.jpg",
+  "w": 332,
+  "h": 500
+ },
+ "7": {
+  "source": "amazon-research",
+  "asin": "1933184930",
+  "file": "7.jpg",
+  "w": 400,
+  "h": 618
+ },
+ "8": {
+  "source": "amazon-research",
+  "asin": "1594719594",
+  "file": "8.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "2": {
+  "source": "amazon-isbn",
+  "asin": "1682781135",
+  "file": "2.jpg",
+  "w": 332,
+  "h": 500
+ },
+ "5": {
+  "source": "amazon-isbn",
+  "asin": "1989905404",
+  "file": "5.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "6": {
+  "source": "amazon-isbn",
+  "asin": "841244082X",
+  "file": "6.jpg",
+  "w": 321,
+  "h": 500
+ },
+ "9": {
+  "source": "amazon-isbn",
+  "asin": "6074044511",
+  "file": "9.jpg",
+  "w": 380,
+  "h": 500
+ },
+ "13": {
+  "source": "amazon-research",
+  "asin": "8433030493",
+  "file": "13.jpg",
+  "w": 369,
+  "h": 500
+ },
+ "12": {
+  "source": "amazon-isbn",
+  "asin": "1594712913",
+  "file": "12.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "15": {
+  "source": "amazon-research",
+  "asin": "8490731586",
+  "file": "15.jpg",
+  "w": 312,
+  "h": 500
+ },
+ "11": {
+  "source": "amazon-isbn",
+  "asin": "1616368969",
+  "file": "11.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "14": {
+  "source": "amazon-isbn",
+  "asin": "1950784665",
+  "file": "14.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "10": {
+  "source": "amazon-isbn",
+  "asin": "1884479464",
+  "file": "10.jpg",
+  "w": 316,
+  "h": 500
+ },
+ "19": {
+  "source": null,
+  "tried": []
+ },
+ "17": {
+  "source": "amazon-isbn",
+  "asin": "0385508190",
+  "file": "17.jpg",
+  "w": 275,
+  "h": 500
+ },
+ "16": {
+  "source": "amazon-isbn",
+  "asin": "0385479670",
+  "file": "16.jpg",
+  "w": 304,
+  "h": 500
+ },
+ "23": {
+  "source": "amazon-research",
+  "asin": "B0F88HZWYJ",
+  "file": "23.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "18": {
+  "source": "amazon-isbn",
+  "asin": "109275184X",
+  "file": "18.jpg",
+  "w": 386,
+  "h": 500
+ },
+ "25": {
+  "source": "amazon-research",
+  "asin": "1936045338",
+  "file": "25.jpg",
+  "w": 386,
+  "h": 500
+ },
+ "21": {
+  "source": "amazon-isbn",
+  "asin": "8413682363",
+  "file": "21.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "27": {
+  "source": "amazon-research",
+  "asin": "B0CD33DTV7",
+  "file": "27.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "20": {
+  "source": "amazon-research",
+  "asin": "8428811563",
+  "file": "20.jpg",
+  "w": 364,
+  "h": 500
+ },
+ "26": {
+  "source": "amazon-isbn",
+  "asin": "1644139405",
+  "file": "26.jpg",
+  "w": 332,
+  "h": 500
+ },
+ "24": {
+  "source": "amazon-isbn",
+  "asin": "0385512295",
+  "file": "24.jpg",
+  "w": 395,
+  "h": 500
+ },
+ "31": {
+  "source": "amazon-research",
+  "asin": "8492518529",
+  "file": "31.jpg",
+  "w": 336,
+  "h": 500
+ },
+ "28": {
+  "source": "amazon-isbn",
+  "asin": "8413680956",
+  "file": "28.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "30": {
+  "source": "amazon-isbn",
+  "asin": "1685781349",
+  "file": "30.jpg",
+  "w": 335,
+  "h": 500
+ },
+ "34": {
+  "source": "amazon-research",
+  "asin": "0906138701",
+  "file": "34.jpg",
+  "w": 325,
+  "h": 500
+ },
+ "35": {
+  "source": "amazon-research",
+  "asin": "B0FSZ8YW74",
+  "file": "35.jpg",
+  "w": 334,
+  "h": 500
+ },
+ "29": {
+  "source": "amazon-isbn",
+  "asin": "6075579192",
+  "file": "29.jpg",
+  "w": 358,
+  "h": 500
+ },
+ "32": {
+  "source": "amazon-research",
+  "asin": "8412188624",
+  "file": "32.jpg",
+  "w": 359,
+  "h": 500
+ },
+ "37": {
+  "source": "amazon-isbn",
+  "asin": "1586175955",
+  "file": "37.jpg",
+  "w": 330,
+  "h": 500
+ },
+ "39": {
+  "source": null,
+  "tried": []
+ },
+ "33": {
+  "source": "research-url",
+  "file": "33.jpg",
+  "w": 716,
+  "h": 1127,
+  "url": "https://m.media-amazon.com/images/I/71TTPsJgpOL.jpg",
+  "note": "Same edition (San Pablo Argentina, ISBN 9789508617484, Amazon ASIN 9508617489); clean front cover; high confidence",
+  "srcsite": "amazon"
+ },
+ "36": {
+  "source": "amazon-research",
+  "asin": "B0DGS9GF6Z",
+  "file": "36.jpg",
+  "w": 354,
+  "h": 500
+ },
+ "42": {
+  "source": "research-url",
+  "file": "42.jpg",
+  "w": 1100,
+  "h": 1700,
+  "url": "https://journeysoffaith.com/cdn/shop/products/este-es-mi-cuerpo-esta-es-mi-sangre-milagros-de-la-eucaristia-espanol-20324454203572.jpg",
+  "note": "Spanish edition 'Este es mi cuerpo, esta es mi sangre: Milagros de la Eucaristía' narrado por Bob y Penny Lord (Journeys of Faith / bobandpennylord.store); high confidence",
+  "srcsite": "publisher"
+ },
+ "38": {
+  "source": "amazon-isbn",
+  "asin": "8498406005",
+  "file": "38.jpg",
+  "w": 316,
+  "h": 500
+ },
+ "41": {
+  "source": "amazon-isbn",
+  "asin": "8425431212",
+  "file": "41.jpg",
+  "w": 325,
+  "h": 500
+ },
+ "45": {
+  "source": "amazon-research",
+  "asin": "1594715823",
+  "file": "45.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "40": {
+  "source": "amazon-isbn",
+  "asin": "0881131520",
+  "file": "40.jpg",
+  "w": 403,
+  "h": 500
+ },
+ "44": {
+  "source": "amazon-isbn",
+  "asin": "1585162353",
+  "file": "44.jpg",
+  "w": 316,
+  "h": 500
+ },
+ "48": {
+  "source": "amazon-research",
+  "asin": "8485662962",
+  "file": "48.jpg",
+  "w": 376,
+  "h": 500
+ },
+ "49": {
+  "source": "amazon-research",
+  "asin": "195078455X",
+  "file": "49.jpg",
+  "w": 500,
+  "h": 500
+ },
+ "43": {
+  "source": "amazon-isbn",
+  "asin": "1405414855",
+  "file": "43.jpg",
+  "w": 393,
+  "h": 500
+ },
+ "46": {
+  "source": "amazon-isbn",
+  "asin": "843213208X",
+  "file": "46.jpg",
+  "w": 340,
+  "h": 500
+ },
+ "47": {
+  "source": "amazon-isbn",
+  "asin": "0964261022",
+  "file": "47.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "53": {
+  "source": "research-url",
+  "file": "53.jpg",
+  "w": 318,
+  "h": 431,
+  "url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394569501i/21423368.jpg",
+  "note": "The Catechism in Pictures (R.P. Bailly / Bonne Presse text), Angelus Press hardcover reprint, English. Catalog has no author/ISBN — chose the standard modern reprint; moderate confidence (a red-cover ",
+  "srcsite": "goodreads"
+ },
+ "54": {
+  "source": "amazon-research",
+  "asin": "164413540X",
+  "file": "54.jpg",
+  "w": 315,
+  "h": 500
+ },
+ "50": {
+  "source": "amazon-isbn",
+  "asin": "1596360224",
+  "file": "50.jpg",
+  "w": 428,
+  "h": 500
+ },
+ "51": {
+  "source": "amazon-isbn",
+  "asin": "8432136069",
+  "file": "51.jpg",
+  "w": 328,
+  "h": 500
+ },
+ "57": {
+  "source": "amazon-research",
+  "asin": "0664213022",
+  "file": "57.jpg",
+  "w": 314,
+  "h": 500,
+  "note": "Barclay Daily Study Bible, matched from her photo"
+ },
+ "52": {
+  "source": "amazon-isbn",
+  "asin": "1789871875",
+  "file": "52.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "55": {
+  "source": "amazon-isbn",
+  "asin": "1599821419",
+  "file": "55.jpg",
+  "w": 353,
+  "h": 500
+ },
+ "60": {
+  "source": null,
+  "rejected": "0140445358",
+  "reason": "wrong book"
+ },
+ "56": {
+  "source": "amazon-isbn",
+  "asin": "1594172153",
+  "file": "56.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "58": {
+  "source": "amazon-isbn",
+  "asin": "1950784355",
+  "file": "58.jpg",
+  "w": 435,
+  "h": 648
+ },
+ "61": {
+  "source": "amazon-isbn",
+  "asin": "0764243667",
+  "file": "61.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "64": {
+  "source": null,
+  "tried": []
+ },
+ "59": {
+  "source": "amazon-isbn",
+  "asin": "1945179414",
+  "file": "59.jpg",
+  "w": 500,
+  "h": 500
+ },
+ "62": {
+  "source": "amazon-isbn",
+  "asin": "1586172506",
+  "file": "62.jpg",
+  "w": 331,
+  "h": 500
+ },
+ "63": {
+  "source": "amazon-isbn",
+  "asin": "1586174843",
+  "file": "63.jpg",
+  "w": 331,
+  "h": 500
+ },
+ "65": {
+  "source": "amazon-isbn",
+  "asin": "1505133645",
+  "file": "65.jpg",
+  "w": 347,
+  "h": 513
+ },
+ "68": {
+  "source": "amazon-isbn",
+  "asin": "8499200990",
+  "file": "68.jpg",
+  "w": 301,
+  "h": 500
+ },
+ "66": {
+  "source": "amazon-research",
+  "asin": "B0H8VX4BDL",
+  "file": "66.jpg",
+  "w": 386,
+  "h": 500
+ },
+ "71": {
+  "source": "amazon-research",
+  "asin": "081981248X",
+  "file": "71.jpg",
+  "w": 386,
+  "h": 500
+ },
+ "67": {
+  "source": "research-url",
+  "file": "67.jpg",
+  "w": 921,
+  "h": 1200,
+  "url": "https://theologicalforum.org/wp-content/uploads/45389.jpg",
+  "note": "Midwest Theological Forum's own image for ISBN 9781936045389 (Understanding the Scriptures Student Workbook, Didache Complete Course); high confidence",
+  "srcsite": "publisher"
+ },
+ "73": {
+  "source": "amazon-research",
+  "asin": "B0BF1W7FYF",
+  "file": "73.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "74": {
+  "source": "amazon-research",
+  "asin": "007135428X",
+  "file": "74.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "75": {
+  "source": "amazon-research",
+  "asin": "1586171429",
+  "file": "75.jpg",
+  "w": 319,
+  "h": 500
+ },
+ "69": {
+  "source": "amazon-isbn",
+  "asin": "1586175165",
+  "file": "69.jpg",
+  "w": 305,
+  "h": 500
+ },
+ "76": {
+  "source": "amazon-isbn",
+  "asin": "1434705943",
+  "file": "76.jpg",
+  "w": 350,
+  "h": 500
+ },
+ "78": {
+  "source": "amazon-research",
+  "asin": "B09TMT4B9X",
+  "file": "78.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "70": {
+  "source": "amazon-isbn",
+  "asin": "1594172331",
+  "file": "70.jpg",
+  "w": 316,
+  "h": 500
+ },
+ "72": {
+  "source": "amazon-isbn",
+  "asin": "1621640175",
+  "file": "72.jpg",
+  "w": 342,
+  "h": 500
+ },
+ "77": {
+  "source": "amazon-isbn",
+  "asin": "8498402883",
+  "file": "77.jpg",
+  "w": 314,
+  "h": 500
+ },
+ "79": {
+  "source": "amazon-isbn",
+  "asin": "8417407189",
+  "file": "79.jpg",
+  "w": 348,
+  "h": 500
+ },
+ "80": {
+  "source": "research-url",
+  "file": "80.jpg",
+  "w": 301,
+  "h": 470,
+  "url": "https://pictures.abebooks.com/inventory/21004441501.jpg",
+  "note": "Seller photo of the actual Ediciones Paulinas 'Enamorado de Dios – Autobiografía' cover (Spanish, ISBN 9788428515245). High confidence.",
+  "srcsite": "abebooks"
+ },
+ "81": {
+  "source": "amazon-research",
+  "asin": "B0080SFFFE",
+  "file": "81.jpg",
+  "w": 352,
+  "h": 500
+ },
+ "85": {
+  "source": "amazon-research",
+  "asin": "0062004638",
+  "file": "85.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "82": {
+  "source": "amazon-isbn",
+  "asin": "8432162604",
+  "file": "82.jpg",
+  "w": 335,
+  "h": 500
+ },
+ "83": {
+  "source": "amazon-isbn",
+  "asin": "0804141525",
+  "file": "83.jpg",
+  "w": 328,
+  "h": 500
+ },
+ "84": {
+  "source": "amazon-isbn",
+  "asin": "1645850307",
+  "file": "84.jpg",
+  "w": 331,
+  "h": 500
+ },
+ "86": {
+  "source": "amazon-isbn",
+  "asin": "8415436831",
+  "file": "86.jpg",
+  "w": 330,
+  "h": 500
+ },
+ "87": {
+  "source": "research-url",
+  "file": "87.jpg",
+  "w": 732,
+  "h": 1042,
+  "url": "https://m.media-amazon.com/images/I/61kJdhOSytL.jpg",
+  "note": "Same edition (Lumen, ISBN 9789870005988, ASIN 9870005985); real cover but photo of a library copy with a small 'Español' sticker at left; high confidence on identity",
+  "srcsite": "amazon"
+ },
+ "89": {
+  "source": "amazon-isbn",
+  "asin": "8408053213",
+  "file": "89.jpg",
+  "w": 318,
+  "h": 500
+ },
+ "92": {
+  "source": "amazon-research",
+  "asin": "1401918875",
+  "file": "92.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "88": {
+  "source": "amazon-isbn",
+  "asin": "0804141126",
+  "file": "88.jpg",
+  "w": 338,
+  "h": 500
+ },
+ "90": {
+  "source": "amazon-isbn",
+  "asin": "8432134953",
+  "file": "90.jpg",
+  "w": 839,
+  "h": 813
+ },
+ "93": {
+  "source": "amazon-isbn",
+  "asin": "0593087399",
+  "file": "93.jpg",
+  "w": 331,
+  "h": 500
+ },
+ "94": {
+  "source": "amazon-isbn",
+  "asin": "8482395270",
+  "file": "94.jpg",
+  "w": 513,
+  "h": 823
+ },
+ "95": {
+  "source": "amazon-isbn",
+  "asin": "0964261065",
+  "file": "95.jpg",
+  "w": 321,
+  "h": 500
+ },
+ "96": {
+  "source": "amazon-isbn",
+  "asin": "0060652926",
+  "file": "96.jpg",
+  "w": 331,
+  "h": 500
+ },
+ "91": {
+  "source": "amazon-research",
+  "asin": "1539128490",
+  "file": "91.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "97": {
+  "source": "amazon-isbn",
+  "asin": "8428556334",
+  "file": "97.jpg",
+  "w": 500,
+  "h": 778
+ },
+ "101": {
+  "source": "amazon-research",
+  "asin": "B09W4CDDYN",
+  "file": "101.jpg",
+  "w": 334,
+  "h": 500
+ },
+ "98": {
+  "source": "amazon-isbn",
+  "asin": "0385510934",
+  "file": "98.jpg",
+  "w": 330,
+  "h": 500
+ },
+ "99": {
+  "source": "amazon-isbn",
+  "asin": "0770437265",
+  "file": "99.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "100": {
+  "source": "amazon-isbn",
+  "asin": "849164282X",
+  "file": "100.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "102": {
+  "source": "amazon-isbn",
+  "asin": "0895260115",
+  "file": "102.jpg",
+  "w": 330,
+  "h": 500
+ },
+ "105": {
+  "source": "amazon-isbn",
+  "asin": "8490618496",
+  "file": "105.jpg",
+  "w": 335,
+  "h": 500
+ },
+ "107": {
+  "source": "amazon-research",
+  "asin": "8497151097",
+  "file": "107.jpg",
+  "w": 303,
+  "h": 500
+ },
+ "103": {
+  "source": "amazon-isbn",
+  "asin": "0062303023",
+  "file": "103.jpg",
+  "w": 332,
+  "h": 500
+ },
+ "104": {
+  "source": "amazon-isbn",
+  "asin": "0198279973",
+  "file": "104.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "106": {
+  "source": "amazon-isbn",
+  "asin": "1681927322",
+  "file": "106.jpg",
+  "w": 321,
+  "h": 500
+ },
+ "109": {
+  "source": "amazon-isbn",
+  "asin": "1947701126",
+  "file": "109.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "110": {
+  "source": "amazon-isbn",
+  "asin": "8415570600",
+  "file": "110.jpg",
+  "w": 326,
+  "h": 500
+ },
+ "108": {
+  "source": "amazon-isbn",
+  "asin": "8490618925",
+  "file": "108.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "112": {
+  "source": "amazon-isbn",
+  "asin": "1579180043",
+  "file": "112.jpg",
+  "w": 331,
+  "h": 500
+ },
+ "113": {
+  "source": "amazon-isbn",
+  "asin": "164060488X",
+  "file": "113.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "116": {
+  "source": "amazon-research",
+  "asin": "B06XKXPD1Q",
+  "file": "116.jpg",
+  "w": 361,
+  "h": 500
+ },
+ "111": {
+  "source": "research-url",
+  "file": "111.jpg",
+  "w": 328,
+  "h": 500,
+  "url": "https://pictures.abebooks.com/isbn/9789709405507-es.jpg",
+  "note": "'¡Sí, Vengo Pronto! El que tenga oídos, que oiga' — author is Luis Eduardo López Padilla; ISBN-keyed AbeBooks cover, Spanish. High confidence.",
+  "srcsite": "abebooks"
+ },
+ "114": {
+  "source": "amazon-isbn",
+  "asin": "0195113713",
+  "file": "114.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "117": {
+  "source": "amazon-isbn",
+  "asin": "1686407343",
+  "file": "117.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "118": {
+  "source": "amazon-isbn",
+  "asin": "1538754231",
+  "file": "118.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "115": {
+  "source": "amazon-isbn",
+  "asin": "1401935826",
+  "file": "115.jpg",
+  "w": 322,
+  "h": 500
+ },
+ "119": {
+  "source": "amazon-isbn",
+  "asin": "160459246X",
+  "file": "119.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "121": {
+  "source": "amazon-isbn",
+  "asin": "0800794052",
+  "file": "121.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "122": {
+  "source": "amazon-isbn",
+  "asin": "1684510554",
+  "file": "122.jpg",
+  "w": 335,
+  "h": 500
+ },
+ "120": {
+  "source": "amazon-isbn",
+  "asin": "089526174X",
+  "file": "120.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "124": {
+  "source": "amazon-isbn",
+  "asin": "0156010860",
+  "file": "124.jpg",
+  "w": 332,
+  "h": 500
+ },
+ "127": {
+  "source": null,
+  "rejected": "B07J56ZJ82",
+  "reason": "other-language edition only"
+ },
+ "123": {
+  "source": "amazon-isbn",
+  "asin": "1621641910",
+  "file": "123.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "125": {
+  "source": "amazon-isbn",
+  "asin": "0898707749",
+  "file": "125.jpg",
+  "w": 294,
+  "h": 500
+ },
+ "126": {
+  "source": "amazon-isbn",
+  "asin": "1505122872",
+  "file": "126.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "128": {
+  "source": "amazon-isbn",
+  "asin": "1505113652",
+  "file": "128.jpg",
+  "w": 407,
+  "h": 500
+ },
+ "129": {
+  "source": "amazon-isbn",
+  "asin": "0933932871",
+  "file": "129.jpg",
+  "w": 326,
+  "h": 500
+ },
+ "130": {
+  "source": "amazon-isbn",
+  "asin": "1957168005",
+  "file": "130.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "131": {
+  "source": "amazon-isbn",
+  "asin": "8496836916",
+  "file": "131.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "133": {
+  "source": "amazon-isbn",
+  "asin": "1940209331",
+  "file": "133.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "132": {
+  "source": "amazon-isbn",
+  "asin": "3337258778",
+  "file": "132.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "134": {
+  "source": "amazon-isbn",
+  "asin": "083081891X",
+  "file": "134.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "136": {
+  "source": "amazon-isbn",
+  "asin": "031253566X",
+  "file": "136.jpg",
+  "w": 500,
+  "h": 434
+ },
+ "135": {
+  "source": "amazon-isbn",
+  "asin": "8467070900",
+  "file": "135.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "138": {
+  "source": "amazon-isbn",
+  "asin": "0671683063",
+  "file": "138.jpg",
+  "w": 318,
+  "h": 475
+ },
+ "137": {
+  "source": "amazon-isbn",
+  "asin": "164638766X",
+  "file": "137.jpg",
+  "w": 500,
+  "h": 500
+ },
+ "139": {
+  "source": "amazon-isbn",
+  "asin": "1645580768",
+  "file": "139.jpg",
+  "w": 444,
+  "h": 500
+ },
+ "140": {
+  "source": "amazon-isbn",
+  "asin": "8428529329",
+  "file": "140.jpg",
+  "w": 495,
+  "h": 500
+ },
+ "141": {
+  "source": "amazon-isbn",
+  "asin": "8428543437",
+  "file": "141.jpg",
+  "w": 500,
+  "h": 497
+ },
+ "144": {
+  "source": "amazon-isbn",
+  "asin": "8428523282",
+  "file": "144.jpg",
+  "w": 500,
+  "h": 494
+ },
+ "142": {
+  "source": "research-url",
+  "file": "142.jpg",
+  "w": 552,
+  "h": 559,
+  "url": "https://imagessl9.casadellibro.com/a/l/t7/89/9788428527989.jpg",
+  "note": "Casa del Libro image for ISBN 9788428527989 (San Pablo Duendelibros 21); correct cover but upscaled/soft (source scan is small); Amazon only has 200px; high confidence on identity",
+  "srcsite": "other"
+ },
+ "143": {
+  "source": "amazon-isbn",
+  "asin": "8428531838",
+  "file": "143.jpg",
+  "w": 500,
+  "h": 494
+ },
+ "145": {
+  "source": "amazon-isbn",
+  "asin": "8428536295",
+  "file": "145.jpg",
+  "w": 500,
+  "h": 496
+ },
+ "146": {
+  "source": "amazon-isbn",
+  "asin": "842852405X",
+  "file": "146.jpg",
+  "w": 500,
+  "h": 496
+ },
+ "147": {
+  "source": "amazon-isbn",
+  "asin": "8428536309",
+  "file": "147.jpg",
+  "w": 487,
+  "h": 500
+ },
+ "148": {
+  "source": "amazon-isbn",
+  "asin": "8428527059",
+  "file": "148.jpg",
+  "w": 497,
+  "h": 500
+ },
+ "149": {
+  "source": "amazon-isbn",
+  "asin": "8428523312",
+  "file": "149.jpg",
+  "w": 493,
+  "h": 500
+ },
+ "150": {
+  "source": "amazon-isbn",
+  "asin": "8467543132",
+  "file": "150.jpg",
+  "w": 401,
+  "h": 500
+ },
+ "151": {
+  "source": null,
+  "rejected": "0870293613",
+  "reason": "other-language edition only"
+ },
+ "152": {
+  "source": "amazon-isbn",
+  "asin": "1412761263",
+  "file": "152.jpg",
+  "w": 500,
+  "h": 499
+ },
+ "153": {
+  "source": "amazon-isbn",
+  "asin": "8498409292",
+  "file": "153.jpg",
+  "w": 357,
+  "h": 500
+ },
+ "154": {
+  "source": "amazon-isbn",
+  "asin": "1639660178",
+  "file": "154.jpg",
+  "w": 488,
+  "h": 648
+ },
+ "155": {
+  "source": "amazon-isbn",
+  "asin": "8416180350",
+  "file": "155.jpg",
+  "w": 700,
+  "h": 700
+ },
+ "156": {
+  "source": "amazon-isbn",
+  "asin": "1423651812",
+  "file": "156.jpg",
+  "w": 429,
+  "h": 500
+ },
+ "157": {
+  "source": "amazon-isbn",
+  "asin": "1644133903",
+  "file": "157.jpg",
+  "w": 410,
+  "h": 500
+ },
+ "158": {
+  "source": "amazon-isbn",
+  "asin": "1622826264",
+  "file": "158.jpg",
+  "w": 411,
+  "h": 500
+ },
+ "160": {
+  "source": "amazon-isbn",
+  "asin": "1416902066",
+  "file": "160.jpg",
+  "w": 382,
+  "h": 500
+ },
+ "159": {
+  "source": "amazon-isbn",
+  "asin": "8482393278",
+  "file": "159.jpg",
+  "w": 450,
+  "h": 622
+ },
+ "162": {
+  "source": "amazon-isbn",
+  "asin": "1645853543",
+  "file": "162.jpg",
+  "w": 500,
+  "h": 497
+ },
+ "161": {
+  "source": "amazon-isbn",
+  "asin": "0940112213",
+  "file": "161.jpg",
+  "w": 351,
+  "h": 500
+ },
+ "163": {
+  "source": "amazon-isbn",
+  "asin": "8472396789",
+  "file": "163.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "167": {
+  "source": "amazon-research",
+  "asin": "B09V29W77R",
+  "file": "167.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "169": {
+  "source": "amazon-research",
+  "asin": "8415570120",
+  "file": "169.jpg",
+  "w": 346,
+  "h": 500
+ },
+ "164": {
+  "source": "amazon-isbn",
+  "asin": "0819883816",
+  "file": "164.jpg",
+  "w": 392,
+  "h": 500
+ },
+ "165": {
+  "source": "amazon-isbn",
+  "asin": "1475136838",
+  "file": "165.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "173": {
+  "source": "amazon-research",
+  "asin": "8492518529",
+  "file": "173.jpg",
+  "w": 336,
+  "h": 500
+ },
+ "170": {
+  "source": "amazon-isbn",
+  "asin": "1910220930",
+  "file": "170.jpg",
+  "w": 334,
+  "h": 500
+ },
+ "166": {
+  "source": "amazon-isbn",
+  "asin": "0967216680",
+  "file": "166.jpg",
+  "w": 316,
+  "h": 475
+ },
+ "172": {
+  "source": "research-url",
+  "file": "172.jpg",
+  "w": 1164,
+  "h": 1783,
+  "url": "https://pictures.abebooks.com/inventory/32456512327.jpg",
+  "note": "Ecclesia, Collection Eli Eli Lamma Sabacthani vol XI, Tradition in Action 2009 — same ISBN. High-res scan; publisher fallback https://www.traditioninaction.org/images/tiabk_Ecclesia_lg.jpg (300x456).",
+  "srcsite": "abebooks"
+ },
+ "177": {
+  "source": "amazon-research",
+  "asin": "8499986838",
+  "file": "177.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "179": {
+  "source": "amazon-research",
+  "asin": "8413684579",
+  "file": "179.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "174": {
+  "source": "research-url",
+  "file": "174.jpg",
+  "w": 1176,
+  "h": 1789,
+  "url": "https://static.wixstatic.com/media/0d3367_06f8af1786ba4c249b0d43422cea6165~mv2.jpg/v1/fill/w_1176,h_1789,al_c,q_85/0d3367_06f8af1786ba4c249b0d43422cea6165~mv2.jpg",
+  "note": "Tradition in Action store product image (og:image) for Fumus Satanae, Vol. VIII of the Eli Eli Lamma Sabacthani collection; high confidence",
+  "srcsite": "publisher"
+ },
+ "175": {
+  "source": "amazon-research",
+  "asin": "0895556367",
+  "file": "175.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "176": {
+  "source": "amazon-isbn",
+  "asin": "173651900X",
+  "file": "176.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "180": {
+  "source": "amazon-isbn",
+  "asin": "8409356708",
+  "file": "180.jpg",
+  "w": 339,
+  "h": 500
+ },
+ "182": {
+  "source": "amazon-isbn",
+  "asin": "1735049786",
+  "file": "182.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "181": {
+  "source": "amazon-research",
+  "asin": "B0CGZ2S564",
+  "file": "181.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "186": {
+  "source": "amazon-isbn",
+  "asin": "0645665215",
+  "file": "186.jpg",
+  "w": 328,
+  "h": 500
+ },
+ "185": {
+  "source": "amazon-isbn",
+  "asin": "1933184388",
+  "file": "185.jpg",
+  "w": 327,
+  "h": 500
+ },
+ "183": {
+  "source": "research-url",
+  "file": "183.jpg",
+  "w": 200,
+  "h": 297,
+  "url": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1290459214i/9750347.jpg",
+  "note": "The Church and the Libertarian, Remnant Press 2010, English — same edition. Only ~200x297 available (Amazon has 237px).",
+  "srcsite": "goodreads"
+ },
+ "190": {
+  "source": "amazon-research",
+  "asin": "B0F4G92HYD",
+  "file": "190.jpg",
+  "w": 334,
+  "h": 500
+ },
+ "188": {
+  "source": "amazon-isbn",
+  "asin": "096343070X",
+  "file": "188.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "192": {
+  "source": "amazon-research",
+  "asin": "0997352205",
+  "file": "192.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "193": {
+  "source": "amazon-research",
+  "asin": "0593727673",
+  "file": "193.jpg",
+  "w": 390,
+  "h": 500
+ },
+ "189": {
+  "source": "amazon-isbn",
+  "asin": "1947701096",
+  "file": "189.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "191": {
+  "source": "amazon-isbn",
+  "asin": "0310351804",
+  "file": "191.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "187": {
+  "source": "amazon-research",
+  "asin": "B01N4KY33N",
+  "file": "187.jpg",
+  "w": 337,
+  "h": 500
+ },
+ "195": {
+  "source": "amazon-isbn",
+  "asin": "0593136861",
+  "file": "195.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "194": {
+  "source": "amazon-isbn",
+  "asin": "1881292444",
+  "file": "194.jpg",
+  "w": 313,
+  "h": 500
+ },
+ "196": {
+  "source": "amazon-isbn",
+  "asin": "1593253915",
+  "file": "196.jpg",
+  "w": 328,
+  "h": 500
+ },
+ "198": {
+  "source": "amazon-isbn",
+  "asin": "1594719691",
+  "file": "198.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "199": {
+  "source": "amazon-isbn",
+  "asin": "1636980325",
+  "file": "199.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "202": {
+  "source": "research-url",
+  "file": "202.jpg",
+  "w": 458,
+  "h": 680,
+  "url": "https://images.squarespace-cdn.com/content/v1/577bfbde37c58194f7c97ab6/1486708503187-YB9LMSLYE5V4TXQRZPD3/Book-+Conversando+con+Maria+P.R.+Fernandez.jpg",
+  "note": "Schoenstatt Patris Store (patrisstore.com) image of 'Conversando con María: meditación sobre el Avemaría', P. Rafael Fernández de A., Editorial Patris (standard edition; a pocket 'Ed. Bolsillo' with a",
+  "srcsite": "publisher"
+ },
+ "197": {
+  "source": "amazon-isbn",
+  "asin": "0465094287",
+  "file": "197.jpg",
+  "w": 331,
+  "h": 500
+ },
+ "200": {
+  "source": "amazon-isbn",
+  "asin": "1401927017",
+  "file": "200.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "201": {
+  "source": "amazon-isbn",
+  "asin": "1596143436",
+  "file": "201.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "206": {
+  "source": null,
+  "tried": []
+ },
+ "203": {
+  "source": "amazon-isbn",
+  "asin": "8490611335",
+  "file": "203.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "204": {
+  "source": "amazon-isbn",
+  "asin": "1601140185",
+  "file": "204.jpg",
+  "w": 357,
+  "h": 500
+ },
+ "209": {
+  "source": null,
+  "rejected": "1882972201",
+  "reason": "other-language edition only"
+ },
+ "207": {
+  "source": "amazon-isbn",
+  "asin": "8488017006",
+  "file": "207.jpg",
+  "w": 339,
+  "h": 500
+ },
+ "210": {
+  "source": "amazon-isbn",
+  "asin": "164413263X",
+  "file": "210.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "208": {
+  "source": "amazon-isbn",
+  "asin": "6070743326",
+  "file": "208.jpg",
+  "w": 326,
+  "h": 500
+ },
+ "205": {
+  "source": "amazon-research",
+  "asin": "1586174746",
+  "file": "205.jpg",
+  "w": 600,
+  "h": 916
+ },
+ "215": {
+  "source": "amazon-isbn",
+  "asin": "194517949X",
+  "file": "215.jpg",
+  "w": 326,
+  "h": 500
+ },
+ "214": {
+  "source": "amazon-isbn",
+  "asin": "0385501692",
+  "file": "214.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "212": {
+  "source": "amazon-isbn",
+  "asin": "1586174916",
+  "file": "212.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "213": {
+  "source": "amazon-isbn",
+  "asin": "8494819704",
+  "file": "213.jpg",
+  "w": 344,
+  "h": 500
+ },
+ "219": {
+  "source": "amazon-isbn",
+  "asin": "8432109509",
+  "file": "219.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "220": {
+  "source": "amazon-research",
+  "asin": "B0BS8RF6BB",
+  "file": "220.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "222": {
+  "source": null,
+  "tried": []
+ },
+ "223": {
+  "source": "amazon-research",
+  "asin": "B0G8W3GF42",
+  "file": "223.jpg",
+  "w": 334,
+  "h": 500
+ },
+ "217": {
+  "source": "amazon-isbn",
+  "asin": "0525572732",
+  "file": "217.jpg",
+  "w": 331,
+  "h": 500
+ },
+ "216": {
+  "source": "amazon-isbn",
+  "asin": "0913382000",
+  "file": "216.jpg",
+  "w": 316,
+  "h": 500
+ },
+ "226": {
+  "source": "amazon-research",
+  "asin": "188933488X",
+  "file": "226.jpg",
+  "w": 318,
+  "h": 500
+ },
+ "218": {
+  "source": "research-url",
+  "file": "218.jpg",
+  "w": 552,
+  "h": 781,
+  "url": "https://imagessl5.casadellibro.com/a/l/t7/75/9788428814775.jpg",
+  "note": "Casa del Libro image for ISBN 9788428814775 (PPC Sauce 75); correct cover but upscaled/soft; PPC Spain site is Cloudflare-blocked; high confidence on identity",
+  "srcsite": "other"
+ },
+ "224": {
+  "source": "research-url",
+  "file": "224.jpg",
+  "w": 337,
+  "h": 480,
+  "url": "https://pictures.abebooks.com/inventory/16274302976.jpg",
+  "note": "Seller photo (Iberlibro) of 'María, una historia de amor' by Justo López Melús, San Pablo 1994 — real ISBN 9788428516389; NOTE the catalog's ISBN 9788428516372 + subtitle actually belong to Luis Cenci",
+  "srcsite": "abebooks"
+ },
+ "225": {
+  "source": "amazon-research",
+  "asin": "8479145080",
+  "file": "225.jpg",
+  "w": 335,
+  "h": 500
+ },
+ "227": {
+  "source": "amazon-isbn",
+  "asin": "1947701061",
+  "file": "227.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "228": {
+  "source": "amazon-isbn",
+  "asin": "8492654023",
+  "file": "228.jpg",
+  "w": 354,
+  "h": 500
+ },
+ "230": {
+  "source": "amazon-isbn",
+  "asin": "0895554844",
+  "file": "230.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "229": {
+  "source": "amazon-isbn",
+  "asin": "0982040792",
+  "file": "229.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "231": {
+  "source": "amazon-isbn",
+  "asin": "1594170215",
+  "file": "231.jpg",
+  "w": 322,
+  "h": 500
+ },
+ "235": {
+  "source": "research-url",
+  "file": "235.jpg",
+  "w": 1563,
+  "h": 2361,
+  "url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1589469948i/53412968.jpg",
+  "note": "Marian Movement of Priests 'Our Lady Speaks to Her Beloved Priests' (classic blue cover, English edition). High confidence in work; edition/printing unknown.",
+  "srcsite": "goodreads"
+ },
+ "236": {
+  "source": "amazon-isbn",
+  "asin": "163253178X",
+  "file": "236.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "233": {
+  "source": "amazon-isbn",
+  "asin": "8412440897",
+  "file": "233.jpg",
+  "w": 500,
+  "h": 719
+ },
+ "232": {
+  "source": "amazon-isbn",
+  "asin": "0997890606",
+  "file": "232.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "234": {
+  "source": "amazon-isbn",
+  "asin": "0967216613",
+  "file": "234.jpg",
+  "w": 313,
+  "h": 475
+ },
+ "239": {
+  "source": "amazon-isbn",
+  "asin": "171801516X",
+  "file": "239.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "238": {
+  "source": "amazon-isbn",
+  "asin": "1649790988",
+  "file": "238.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "237": {
+  "source": "amazon-isbn",
+  "asin": "1505109787",
+  "file": "237.jpg",
+  "w": 379,
+  "h": 500
+ },
+ "240": {
+  "source": "amazon-isbn",
+  "asin": "0967216672",
+  "file": "240.jpg",
+  "w": 296,
+  "h": 475
+ },
+ "242": {
+  "source": "amazon-isbn",
+  "asin": "194770110X",
+  "file": "242.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "241": {
+  "source": "amazon-isbn",
+  "asin": "1505110262",
+  "file": "241.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "243": {
+  "source": "amazon-isbn",
+  "asin": "1989067026",
+  "file": "243.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "244": {
+  "source": "amazon-isbn",
+  "asin": "1947701215",
+  "file": "244.jpg",
+  "w": 334,
+  "h": 500
+ },
+ "245": {
+  "source": "amazon-isbn",
+  "asin": "1533136246",
+  "file": "245.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "249": {
+  "source": "research-url",
+  "file": "249.jpg",
+  "w": 1019,
+  "h": 1502,
+  "url": "https://m.media-amazon.com/images/I/71Eqj9Fo0qL.jpg",
+  "note": "'To the Priests, Our Lady's Beloved Sons' (Marian Movement of Priests, Fr. Gobbi 'Blue Book'), 18th English edition, Amazon ASIN B001362N6Y; edition unknown in catalog but all editions share this blue",
+  "srcsite": "amazon"
+ },
+ "246": {
+  "source": "amazon-isbn",
+  "asin": "0895556170",
+  "file": "246.jpg",
+  "w": 312,
+  "h": 500
+ },
+ "247": {
+  "source": "amazon-isbn",
+  "asin": "1596141360",
+  "file": "247.jpg",
+  "w": 328,
+  "h": 500
+ },
+ "248": {
+  "source": "amazon-isbn",
+  "asin": "1947343106",
+  "file": "248.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "250": {
+  "source": "amazon-isbn",
+  "asin": "1505112982",
+  "file": "250.jpg",
+  "w": 357,
+  "h": 500
+ },
+ "251": {
+  "source": "amazon-isbn",
+  "asin": "1072205823",
+  "file": "251.jpg",
+  "w": 313,
+  "h": 500
+ },
+ "252": {
+  "source": "amazon-isbn",
+  "asin": "848353939X",
+  "file": "252.jpg",
+  "w": 364,
+  "h": 500
+ },
+ "253": {
+  "source": "amazon-isbn",
+  "asin": "159417153X",
+  "file": "253.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "255": {
+  "source": "amazon-isbn",
+  "asin": "1889334057",
+  "file": "255.jpg",
+  "w": 327,
+  "h": 500
+ },
+ "256": {
+  "source": "amazon-isbn",
+  "asin": "8432144258",
+  "file": "256.jpg",
+  "w": 336,
+  "h": 500
+ },
+ "254": {
+  "source": "amazon-research",
+  "asin": "8432124400",
+  "file": "254.jpg",
+  "w": 358,
+  "h": 500
+ },
+ "259": {
+  "source": "amazon-isbn",
+  "asin": "0801078008",
+  "file": "259.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "257": {
+  "source": "amazon-research",
+  "asin": "8408079441",
+  "file": "257.jpg",
+  "w": 319,
+  "h": 500
+ },
+ "258": {
+  "source": "amazon-research",
+  "asin": "8432133647",
+  "file": "258.jpg",
+  "w": 338,
+  "h": 500
+ },
+ "263": {
+  "source": null,
+  "tried": []
+ },
+ "260": {
+  "source": "amazon-isbn",
+  "asin": "8498406390",
+  "file": "260.jpg",
+  "w": 450,
+  "h": 717
+ },
+ "261": {
+  "source": "amazon-isbn",
+  "asin": "1910644315",
+  "file": "261.jpg",
+  "w": 316,
+  "h": 500
+ },
+ "262": {
+  "source": "amazon-isbn",
+  "asin": "0933932650",
+  "file": "262.jpg",
+  "w": 308,
+  "h": 475
+ },
+ "264": {
+  "source": "amazon-isbn",
+  "asin": "8490613761",
+  "file": "264.jpg",
+  "w": 314,
+  "h": 500
+ },
+ "265": {
+  "source": "amazon-isbn",
+  "asin": "1594170819",
+  "file": "265.jpg",
+  "w": 319,
+  "h": 500
+ },
+ "266": {
+  "source": "amazon-isbn",
+  "asin": "1594172145",
+  "file": "266.jpg",
+  "w": 337,
+  "h": 500
+ },
+ "268": {
+  "source": "amazon-isbn",
+  "asin": "1684512603",
+  "file": "268.jpg",
+  "w": 335,
+  "h": 500
+ },
+ "267": {
+  "source": "amazon-isbn",
+  "asin": "1734709316",
+  "file": "267.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "269": {
+  "source": "amazon-isbn",
+  "asin": "8432136077",
+  "file": "269.jpg",
+  "w": 337,
+  "h": 500
+ },
+ "273": {
+  "source": "amazon-isbn",
+  "asin": "8413680190",
+  "file": "273.jpg",
+  "w": 316,
+  "h": 500
+ },
+ "274": {
+  "source": "amazon-research",
+  "asin": "1685781098",
+  "file": "274.jpg",
+  "w": 335,
+  "h": 500
+ },
+ "271": {
+  "source": "amazon-research",
+  "asin": "8432142417",
+  "file": "271.jpg",
+  "w": 328,
+  "h": 500
+ },
+ "276": {
+  "source": "amazon-research",
+  "asin": "1635825172",
+  "file": "276.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "277": {
+  "source": "amazon-research",
+  "asin": "1645853489",
+  "file": "277.jpg",
+  "w": 358,
+  "h": 500
+ },
+ "272": {
+  "source": "amazon-isbn",
+  "asin": "1596142448",
+  "file": "272.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "275": {
+  "source": "amazon-isbn",
+  "asin": "8432132926",
+  "file": "275.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "280": {
+  "source": "research-url",
+  "file": "280.jpg",
+  "w": 759,
+  "h": 1127,
+  "url": "https://m.media-amazon.com/images/I/71lFhavAAKL.jpg",
+  "note": "Anonymous title; identified as the widely distributed booklet 'Devoción a la Preciosísima Sangre de Nuestro Señor Jesucristo – La devoción más grande de nuestro tiempo' (Apostolado de la Sangre Precio",
+  "srcsite": "amazon"
+ },
+ "279": {
+  "source": "amazon-isbn",
+  "asin": "8432149802",
+  "file": "279.jpg",
+  "w": 327,
+  "h": 500
+ },
+ "270": {
+  "source": "amazon-isbn",
+  "asin": "8432138347",
+  "file": "270.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "278": {
+  "source": "amazon-research",
+  "asin": "B00D0ULWH2",
+  "file": "278.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "281": {
+  "source": "amazon-isbn",
+  "asin": "848965171X",
+  "file": "281.jpg",
+  "w": 315,
+  "h": 500
+ },
+ "282": {
+  "source": "research-url",
+  "file": "282.jpg",
+  "w": 200,
+  "h": 299,
+  "url": "https://m.media-amazon.com/images/I/31oFW5T2tbL.jpg",
+  "note": "El Ayuno Consciente, Ediciones Obelisco, ISBN-10 8477205078 (= 9788477205074) — same edition, Spanish. Small (200x299) but the only flat cover found.",
+  "srcsite": "amazon"
+ },
+ "284": {
+  "source": "amazon-isbn",
+  "asin": "1950784606",
+  "file": "284.jpg",
+  "w": 500,
+  "h": 500
+ },
+ "286": {
+  "source": "amazon-isbn",
+  "asin": "1987451449",
+  "file": "286.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "289": {
+  "source": "amazon-research",
+  "asin": "B088Y4VNWT",
+  "file": "289.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "283": {
+  "source": "research-url",
+  "file": "283.jpg",
+  "w": 1051,
+  "h": 1649,
+  "url": "https://static.wixstatic.com/media/0d3367_8a3ddf670aed4eb8b7a80f6cd3645270~mv2.jpg/v1/fill/w_1051,h_1649,al_c,q_85/0d3367_8a3ddf670aed4eb8b7a80f6cd3645270~mv2.jpg",
+  "note": "Tradition in Action store product image (og:image) for 'Eli, Eli, Lamma Sabacthani?' – Michael Saint Amand interviews Atila Sinke Guimarães; high confidence",
+  "srcsite": "publisher"
+ },
+ "287": {
+  "source": "amazon-isbn",
+  "asin": "159417413X",
+  "file": "287.jpg",
+  "w": 357,
+  "h": 500
+ },
+ "292": {
+  "source": "amazon-research",
+  "asin": "8472399060",
+  "file": "292.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "288": {
+  "source": "amazon-isbn",
+  "asin": "8432143634",
+  "file": "288.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "291": {
+  "source": "amazon-isbn",
+  "asin": "1574554743",
+  "file": "291.jpg",
+  "w": 307,
+  "h": 500
+ },
+ "290": {
+  "source": "amazon-research",
+  "asin": "1475273495",
+  "file": "290.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "294": {
+  "source": "amazon-isbn",
+  "asin": "1646801482",
+  "file": "294.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "293": {
+  "source": "amazon-isbn",
+  "asin": "847914534X",
+  "file": "293.jpg",
+  "w": 330,
+  "h": 500
+ },
+ "299": {
+  "source": "amazon-research",
+  "asin": "1594170665",
+  "file": "299.jpg",
+  "w": 345,
+  "h": 500
+ },
+ "295": {
+  "source": "amazon-research",
+  "asin": "B09MYLF4SR",
+  "file": "295.jpg",
+  "w": 322,
+  "h": 500
+ },
+ "296": {
+  "source": "amazon-isbn",
+  "asin": "1622821769",
+  "file": "296.jpg",
+  "w": 444,
+  "h": 500
+ },
+ "300": {
+  "source": "amazon-isbn",
+  "asin": "1931018154",
+  "file": "300.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "297": {
+  "source": "amazon-isbn",
+  "asin": "1950939065",
+  "file": "297.jpg",
+  "w": 331,
+  "h": 500
+ },
+ "303": {
+  "source": "amazon-isbn",
+  "asin": "8487023916",
+  "file": "303.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "302": {
+  "source": "amazon-isbn",
+  "asin": "1644133385",
+  "file": "302.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "304": {
+  "source": "amazon-isbn",
+  "asin": "1596143452",
+  "file": "304.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "305": {
+  "source": "amazon-isbn",
+  "asin": "8428552495",
+  "file": "305.jpg",
+  "w": 314,
+  "h": 500
+ },
+ "307": {
+  "source": "amazon-isbn",
+  "asin": "1594171726",
+  "file": "307.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "310": {
+  "source": "amazon-research",
+  "asin": "B08WZLZ1M1",
+  "file": "310.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "308": {
+  "source": "amazon-isbn",
+  "asin": "0520280415",
+  "file": "308.jpg",
+  "w": 316,
+  "h": 500
+ },
+ "306": {
+  "source": "amazon-isbn",
+  "asin": "0818913215",
+  "file": "306.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "311": {
+  "source": "amazon-isbn",
+  "asin": "8419349798",
+  "file": "311.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "314": {
+  "source": "research-url",
+  "file": "314.jpg",
+  "w": 591,
+  "h": 840,
+  "url": "https://divinafelicidad.com/1080/catalina-laboure-la-mensajera-del-cielo.jpg",
+  "note": "Spanish edition 'Catalina Labouré, la Mensajera del Cielo' by Anne Prévost, H.C. (Éd. du Signe / Rue du Bac booklet, ISBN 9782746816886) from Spanish Catholic bookstore divinafelicidad.com; served as ",
+  "srcsite": "other"
+ },
+ "312": {
+  "source": "amazon-isbn",
+  "asin": "1594173877",
+  "file": "312.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "313": {
+  "source": "amazon-isbn",
+  "asin": "8472399435",
+  "file": "313.jpg",
+  "w": 365,
+  "h": 500
+ },
+ "317": {
+  "source": "amazon-research",
+  "asin": "8428517282",
+  "file": "317.jpg",
+  "w": 325,
+  "h": 500
+ },
+ "309": {
+  "source": "research-url",
+  "file": "309.jpg",
+  "w": 1384,
+  "h": 2382,
+  "url": "https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1697787365i/15725075.jpg",
+  "note": "Beato Carlos Manuel Rodríguez Santiago, Editorial Plaza Mayor 2008 — same book; it is a photo of the book (front cover + spine visible), not a flat scan. Alt seller photo: https://pictures.abebooks.co",
+  "srcsite": "goodreads"
+ },
+ "315": {
+  "source": "amazon-isbn",
+  "asin": "0944203264",
+  "file": "315.jpg",
+  "w": 305,
+  "h": 500
+ },
+ "316": {
+  "source": "amazon-isbn",
+  "asin": "1596141077",
+  "file": "316.jpg",
+  "w": 298,
+  "h": 500
+ },
+ "321": {
+  "source": null,
+  "tried": []
+ },
+ "319": {
+  "source": "amazon-isbn",
+  "asin": "8434849488",
+  "file": "319.jpg",
+  "w": 319,
+  "h": 500
+ },
+ "318": {
+  "source": "amazon-isbn",
+  "asin": "8415662831",
+  "file": "318.jpg",
+  "w": 319,
+  "h": 500
+ },
+ "320": {
+  "source": "amazon-isbn",
+  "asin": "8499986498",
+  "file": "320.jpg",
+  "w": 327,
+  "h": 500
+ },
+ "323": {
+  "source": "amazon-isbn",
+  "asin": "1616366370",
+  "file": "323.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "325": {
+  "source": "amazon-isbn",
+  "asin": "8428535051",
+  "file": "325.jpg",
+  "w": 303,
+  "h": 500
+ },
+ "324": {
+  "source": "amazon-isbn",
+  "asin": "1621644146",
+  "file": "324.jpg",
+  "w": 328,
+  "h": 500
+ },
+ "322": {
+  "source": "research-url",
+  "file": "322.jpg",
+  "w": 1302,
+  "h": 1964,
+  "url": "https://bac-editorial.es/2254/en-la-escuela-del-amor-libro-sobre-el-amor-a-dios-sermones-sobre-el-cantar-de-los-cantares.jpg",
+  "note": "BAC's own full-size cover for ISBN 9788479144371 (Clásicos de espiritualidad 11); large 3.7MB PNG despite .jpg name — a lighter 800x800 white-padded JPEG exists at https://bac-editorial.es/2254-thickb",
+  "srcsite": "publisher"
+ },
+ "328": {
+  "source": "amazon-isbn",
+  "asin": "1505118492",
+  "file": "328.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "330": {
+  "source": "amazon-research",
+  "asin": "0679440828",
+  "file": "330.jpg",
+  "w": 269,
+  "h": 475
+ },
+ "329": {
+  "source": "amazon-isbn",
+  "asin": "1594170207",
+  "file": "329.jpg",
+  "w": 340,
+  "h": 500
+ },
+ "327": {
+  "source": "amazon-research",
+  "asin": "849734636X",
+  "file": "327.jpg",
+  "w": 300,
+  "h": 483
+ },
+ "326": {
+  "source": "research-url",
+  "file": "326.jpg",
+  "w": 334,
+  "h": 500,
+  "url": "https://pictures.abebooks.com/isbn/9788471187666-es.jpg",
+  "note": "Same ISBN (Palabra, Documentos MC 1991); the book's cover title is 'Desde Polonia al mundo entero' (IV viaje apostólico a Polonia / VI JMJ Czestochowa is the subtitle). High confidence.",
+  "srcsite": "abebooks"
+ },
+ "331": {
+  "source": "amazon-isbn",
+  "asin": "8447338347",
+  "file": "331.jpg",
+  "w": 352,
+  "h": 500
+ },
+ "335": {
+  "source": "amazon-isbn",
+  "asin": "0932085598",
+  "file": "335.jpg",
+  "w": 292,
+  "h": 475
+ },
+ "332": {
+  "source": "amazon-isbn",
+  "asin": "0804171866",
+  "file": "332.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "334": {
+  "source": "amazon-isbn",
+  "asin": "8479147792",
+  "file": "334.jpg",
+  "w": 339,
+  "h": 500
+ },
+ "339": {
+  "source": "amazon-research",
+  "asin": "8470684310",
+  "file": "339.jpg",
+  "w": 303,
+  "h": 500
+ },
+ "336": {
+  "source": "amazon-isbn",
+  "asin": "8433024884",
+  "file": "336.jpg",
+  "w": 328,
+  "h": 500
+ },
+ "337": {
+  "source": "amazon-isbn",
+  "asin": "8498402174",
+  "file": "337.jpg",
+  "w": 314,
+  "h": 500
+ },
+ "338": {
+  "source": "amazon-isbn",
+  "asin": "8490614806",
+  "file": "338.jpg",
+  "w": 314,
+  "h": 500
+ },
+ "342": {
+  "source": "amazon-isbn",
+  "asin": "1631740318",
+  "file": "342.jpg",
+  "w": 600,
+  "h": 900
+ },
+ "343": {
+  "source": "research-url",
+  "file": "343.jpg",
+  "w": 1239,
+  "h": 1922,
+  "url": "https://m.media-amazon.com/images/I/81wW19nkUgL.jpg",
+  "note": "Same edition (Editorial Claretiana, ISBN 9789505124381, ASIN 9505124384) 'Los cinco minutos de Santa Teresita'; clean cover; high confidence",
+  "srcsite": "amazon"
+ },
+ "345": {
+  "source": "amazon-isbn",
+  "asin": "0898704456",
+  "file": "345.jpg",
+  "w": 600,
+  "h": 915
+ },
+ "344": {
+  "source": "research-url",
+  "file": "344.jpg",
+  "w": 751,
+  "h": 945,
+  "url": "https://pictures.abebooks.com/inventory/30749989151.jpg",
+  "note": "Memmo Caporilli, Los Papas – Los Concilios ecuménicos – Los jubileos años santos (Euroedit), Spanish edition, listed under ISBN 9788876770005. High confidence.",
+  "srcsite": "abebooks"
+ },
+ "346": {
+  "source": "amazon-isbn",
+  "asin": "8428539480",
+  "file": "346.jpg",
+  "w": 321,
+  "h": 500
+ },
+ "348": {
+  "source": "amazon-isbn",
+  "asin": "0743284666",
+  "file": "348.jpg",
+  "w": 319,
+  "h": 500
+ },
+ "347": {
+  "source": "amazon-isbn",
+  "asin": "8479140488",
+  "file": "347.jpg",
+  "w": 325,
+  "h": 500
+ },
+ "351": {
+  "source": "amazon-research",
+  "asin": "B0002D6DHO",
+  "file": "351.jpg",
+  "w": 375,
+  "h": 475
+ },
+ "350": {
+  "source": "amazon-isbn",
+  "asin": "8417407243",
+  "file": "350.jpg",
+  "w": 432,
+  "h": 648
+ },
+ "349": {
+  "source": "amazon-isbn",
+  "asin": "8492654708",
+  "file": "349.jpg",
+  "w": 346,
+  "h": 500
+ },
+ "352": {
+  "source": "amazon-isbn",
+  "asin": "1490555420",
+  "file": "352.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "341": {
+  "source": "amazon-isbn",
+  "asin": "8472398684",
+  "file": "341.jpg",
+  "w": 366,
+  "h": 500
+ },
+ "354": {
+  "source": "amazon-isbn",
+  "asin": "1786471337",
+  "file": "354.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "357": {
+  "source": "amazon-research",
+  "asin": "150511280X",
+  "file": "357.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "358": {
+  "source": null,
+  "tried": []
+ },
+ "359": {
+  "source": "amazon-research",
+  "asin": "1326205692",
+  "file": "359.jpg",
+  "w": 331,
+  "h": 500
+ },
+ "355": {
+  "source": "amazon-isbn",
+  "asin": "1681887487",
+  "file": "355.jpg",
+  "w": 394,
+  "h": 500
+ },
+ "353": {
+  "source": "amazon-research",
+  "asin": "0841913234",
+  "file": "353.jpg",
+  "w": 406,
+  "h": 500
+ },
+ "356": {
+  "source": "amazon-isbn",
+  "asin": "1594170843",
+  "file": "356.jpg",
+  "w": 351,
+  "h": 500
+ },
+ "360": {
+  "source": "amazon-isbn",
+  "asin": "1326205692",
+  "file": "360.jpg",
+  "w": 331,
+  "h": 500
+ },
+ "361": {
+  "source": "amazon-isbn",
+  "asin": "1635824443",
+  "file": "361.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "362": {
+  "source": "amazon-isbn",
+  "asin": "8432109436",
+  "file": "362.jpg",
+  "w": 321,
+  "h": 500
+ },
+ "363": {
+  "source": "amazon-isbn",
+  "asin": "8434566877",
+  "file": "363.jpg",
+  "w": 350,
+  "h": 500
+ },
+ "368": {
+  "source": "amazon-isbn",
+  "asin": "0935216588",
+  "file": "368.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "364": {
+  "source": "research-url",
+  "file": "364.jpg",
+  "w": 576,
+  "h": 1024,
+  "url": "https://cloud10.todocoleccion.online/libros-segunda-mano-religion/tc/2021/05/11/17/262424770.jpg",
+  "note": "Salvat 1999 'Lo que el Papa nos ha dicho: Sobre la sexualidad y el amor' — todocoleccion seller photo (upright book on white background, small site watermark at bottom). Flat cover only exists as wate",
+  "srcsite": "other"
+ },
+ "370": {
+  "source": "amazon-research",
+  "asin": "8483537176",
+  "file": "370.jpg",
+  "w": 341,
+  "h": 500
+ },
+ "365": {
+  "source": "generated",
+  "file": "365.jpg",
+  "w": 600,
+  "h": 900,
+  "note": "typographic cover (no image exists online)"
+ },
+ "367": {
+  "source": "research-url",
+  "file": "367.jpg",
+  "w": 270,
+  "h": 405,
+  "url": "https://static.cegal.es/imagenes/marcadas/9788434/978843456686.gif",
+  "note": "CAUTION: image/gif (not jpeg/png/webp) with a TODOSTUSLIBROS.COM watermark stamp — the only cover found for Salvat 1999 'Lo que el Papa nos ha dicho: Sobre los jóvenes' (same ISBN 9788434566866). Veri",
+  "srcsite": "other"
+ },
+ "371": {
+  "source": "amazon-isbn",
+  "asin": "8412440846",
+  "file": "371.jpg",
+  "w": 326,
+  "h": 500
+ },
+ "372": {
+  "source": "amazon-isbn",
+  "asin": "1795766190",
+  "file": "372.jpg",
+  "w": 386,
+  "h": 500
+ },
+ "369": {
+  "source": "amazon-isbn",
+  "asin": "0935216383",
+  "file": "369.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "373": {
+  "source": "amazon-isbn",
+  "asin": "0895551497",
+  "file": "373.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "377": {
+  "source": "amazon-research",
+  "asin": "B08YYZYM44",
+  "file": "377.jpg",
+  "w": 314,
+  "h": 500
+ },
+ "375": {
+  "source": "amazon-isbn",
+  "asin": "193101860X",
+  "file": "375.jpg",
+  "w": 318,
+  "h": 500
+ },
+ "379": {
+  "source": "research-url",
+  "file": "379.jpg",
+  "w": 2225,
+  "h": 3136,
+  "url": "https://pictures.abebooks.com/inventory/32208862562.jpg",
+  "note": "'The Message of Catherine Labouré: A Dynamic Force for Living!' – Marian Youth Movement / Rayons hors série (English hardcover, 1993); seller photo of the actual book, very clean; smaller clean altern",
+  "srcsite": "abebooks"
+ },
+ "374": {
+  "source": "amazon-isbn",
+  "asin": "0895558122",
+  "file": "374.jpg",
+  "w": 304,
+  "h": 500
+ },
+ "381": {
+  "source": "amazon-research",
+  "asin": "0895550709",
+  "file": "381.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "376": {
+  "source": "amazon-isbn",
+  "asin": "0935216405",
+  "file": "376.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "378": {
+  "source": "amazon-isbn",
+  "asin": "089555061X",
+  "file": "378.jpg",
+  "w": 424,
+  "h": 500
+ },
+ "385": {
+  "source": "amazon-research",
+  "asin": "0895558181",
+  "file": "385.jpg",
+  "w": 325,
+  "h": 500
+ },
+ "380": {
+  "source": "amazon-isbn",
+  "asin": "0895558114",
+  "file": "380.jpg",
+  "w": 304,
+  "h": 500
+ },
+ "382": {
+  "source": "amazon-isbn",
+  "asin": "0933932669",
+  "file": "382.jpg",
+  "w": 321,
+  "h": 500
+ },
+ "384": {
+  "source": "amazon-isbn",
+  "asin": "1505131553",
+  "file": "384.jpg",
+  "w": 357,
+  "h": 500
+ },
+ "386": {
+  "source": "amazon-isbn",
+  "asin": "1594171688",
+  "file": "386.jpg",
+  "w": 318,
+  "h": 500
+ },
+ "388": {
+  "source": "amazon-isbn",
+  "asin": "8408082272",
+  "file": "388.jpg",
+  "w": 326,
+  "h": 500
+ },
+ "391": {
+  "source": null,
+  "tried": []
+ },
+ "387": {
+  "source": "amazon-isbn",
+  "asin": "8494099205",
+  "file": "387.jpg",
+  "w": 321,
+  "h": 500
+ },
+ "389": {
+  "source": "amazon-isbn",
+  "asin": "8476304188",
+  "file": "389.jpg",
+  "w": 347,
+  "h": 500
+ },
+ "390": {
+  "source": "amazon-isbn",
+  "asin": "006018793X",
+  "file": "390.jpg",
+  "w": 345,
+  "h": 500
+ },
+ "392": {
+  "source": "amazon-isbn",
+  "asin": "8432145092",
+  "file": "392.jpg",
+  "w": 328,
+  "h": 500
+ },
+ "396": {
+  "source": "amazon-research",
+  "asin": "1611802113",
+  "file": "396.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "393": {
+  "source": "amazon-isbn",
+  "asin": "8490619484",
+  "file": "393.jpg",
+  "w": 316,
+  "h": 500
+ },
+ "394": {
+  "source": "amazon-isbn",
+  "asin": "0736915605",
+  "file": "394.jpg",
+  "w": 304,
+  "h": 500
+ },
+ "395": {
+  "source": "amazon-isbn",
+  "asin": "0895552264",
+  "file": "395.jpg",
+  "w": 319,
+  "h": 500
+ },
+ "397": {
+  "source": "amazon-isbn",
+  "asin": "1594173761",
+  "file": "397.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "399": {
+  "source": "amazon-isbn",
+  "asin": "8498405262",
+  "file": "399.jpg",
+  "w": 316,
+  "h": 500
+ },
+ "398": {
+  "source": "amazon-research",
+  "asin": "B071FPF6LS",
+  "file": "398.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "400": {
+  "source": "google-300",
+  "file": null,
+  "google": "out/covers_google/9789587681253.jpg",
+  "w": 300,
+  "h": 450
+ },
+ "401": {
+  "source": "amazon-isbn",
+  "asin": "8432143928",
+  "file": "401.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "404": {
+  "source": "amazon-isbn",
+  "asin": "1642791032",
+  "file": "404.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "402": {
+  "source": "amazon-research",
+  "asin": "8432108855",
+  "file": "402.jpg",
+  "w": 328,
+  "h": 500
+ },
+ "403": {
+  "source": "research-url",
+  "file": "403.jpg",
+  "w": 1024,
+  "h": 1024,
+  "url": "https://m.media-amazon.com/images/I/516xrE91F3L.jpg",
+  "note": "Same edition (Direction for Our Times, ISBN 9781940737300, ASIN 1940737303) 'HEAVEN, An Excerpt from Climbing the Mountain'; square 1024x1024 image with white margins around the blue cover; high confi",
+  "srcsite": "amazon"
+ },
+ "406": {
+  "source": "amazon-isbn",
+  "asin": "0999375652",
+  "file": "406.jpg",
+  "w": 328,
+  "h": 500
+ },
+ "407": {
+  "source": "amazon-isbn",
+  "asin": "8432149403",
+  "file": "407.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "408": {
+  "source": "amazon-isbn",
+  "asin": "8498400732",
+  "file": "408.jpg",
+  "w": 350,
+  "h": 557
+ },
+ "409": {
+  "source": "amazon-isbn",
+  "asin": "0140455566",
+  "file": "409.jpg",
+  "w": 325,
+  "h": 500
+ },
+ "405": {
+  "source": "amazon-isbn",
+  "asin": "059323006X",
+  "file": "405.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "410": {
+  "source": "amazon-isbn",
+  "asin": "8428554773",
+  "file": "410.jpg",
+  "w": 310,
+  "h": 500
+ },
+ "411": {
+  "source": "amazon-isbn",
+  "asin": "1940209404",
+  "file": "411.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "413": {
+  "source": "amazon-isbn",
+  "asin": "8431338881",
+  "file": "413.jpg",
+  "w": 337,
+  "h": 500
+ },
+ "414": {
+  "source": "amazon-isbn",
+  "asin": "8432118044",
+  "file": "414.jpg",
+  "w": 325,
+  "h": 500
+ },
+ "412": {
+  "source": "research-url",
+  "file": "412.jpg",
+  "w": 1207,
+  "h": 2074,
+  "url": "https://pictures.abebooks.com/inventory/32460872876.jpg",
+  "note": "Sanación Intergeneracional, DeGrandis & Schubert, Spanish edition (ISBN 9789588027197) — clean high-res scan; stable ISBN-keyed alt: https://pictures.abebooks.com/isbn/9789588027197-es.jpg (291x500).",
+  "srcsite": "abebooks"
+ },
+ "416": {
+  "source": "amazon-isbn",
+  "asin": "0385519494",
+  "file": "416.jpg",
+  "w": 334,
+  "h": 500
+ },
+ "419": {
+  "source": "research-url",
+  "file": "419.jpg",
+  "w": 321,
+  "h": 500,
+  "url": "https://m.media-amazon.com/images/I/51FYxqTnV0L.jpg",
+  "note": "Spiritual Journeys Toward the Fullness of Faith, ed. Robert Baram, St. Paul Books & Media 1987 (ASIN B003YIZDR0), English. High confidence.",
+  "srcsite": "amazon"
+ },
+ "417": {
+  "source": "amazon-isbn",
+  "asin": "8490616108",
+  "file": "417.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "418": {
+  "source": "amazon-isbn",
+  "asin": "1478794038",
+  "file": "418.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "415": {
+  "source": "research-url",
+  "file": "415.jpg",
+  "w": 552,
+  "h": 861,
+  "url": "https://imagessl3.casadellibro.com/a/l/t7/13/9788428813013.jpg",
+  "note": "Casa del Libro image for ISBN 9788428813013 (PPC Sauce 42, Nouwen 'Signos de vida'); correct red cover but upscaled/soft (PPC Colombia only has 308x480 of the same scan); high confidence on identity",
+  "srcsite": "other"
+ },
+ "420": {
+  "source": "amazon-isbn",
+  "asin": "1889334375",
+  "file": "420.jpg",
+  "w": 287,
+  "h": 500
+ },
+ "422": {
+  "source": "amazon-isbn",
+  "asin": "080242869X",
+  "file": "422.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "421": {
+  "source": "amazon-isbn",
+  "asin": "1658944992",
+  "file": "421.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "426": {
+  "source": "amazon-research",
+  "asin": "146372585X",
+  "file": "426.jpg",
+  "w": 400,
+  "h": 500
+ },
+ "423": {
+  "source": "amazon-isbn",
+  "asin": "1594175373",
+  "file": "423.jpg",
+  "w": 311,
+  "h": 500
+ },
+ "428": {
+  "source": "amazon-research",
+  "asin": "0933932529",
+  "file": "428.jpg",
+  "w": 313,
+  "h": 500
+ },
+ "424": {
+  "source": "amazon-isbn",
+  "asin": "1668014491",
+  "file": "424.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "427": {
+  "source": "amazon-isbn",
+  "asin": "1629988871",
+  "file": "427.jpg",
+  "w": 333,
+  "h": 500
+ },
+ "425": {
+  "source": "amazon-isbn",
+  "asin": "1732741743",
+  "file": "425.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "431": {
+  "source": "amazon-isbn",
+  "asin": "1934217565",
+  "file": "431.jpg",
+  "w": 321,
+  "h": 500
+ },
+ "432": {
+  "source": "amazon-isbn",
+  "asin": "1934217603",
+  "file": "432.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "439": {
+  "source": "amazon-isbn",
+  "asin": "1933919248",
+  "file": "439.jpg",
+  "w": 328,
+  "h": 500
+ },
+ "433": {
+  "source": "amazon-isbn",
+  "asin": "193421762X",
+  "file": "433.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "435": {
+  "source": "research-url",
+  "file": "435.jpg",
+  "w": 901,
+  "h": 1200,
+  "url": "https://theologicalforum.org/wp-content/uploads/31994.jpg",
+  "note": "Midwest Theological Forum's own image for ISBN 9781939231994 (Faith, Science, and Reason, 2nd edition); high confidence",
+  "srcsite": "publisher"
+ },
+ "438": {
+  "source": "amazon-isbn",
+  "asin": "1935940104",
+  "file": "438.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "440": {
+  "source": "amazon-isbn",
+  "asin": "1594175217",
+  "file": "440.jpg",
+  "w": 327,
+  "h": 500
+ },
+ "441": {
+  "source": "amazon-isbn",
+  "asin": "1934217611",
+  "file": "441.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "443": {
+  "source": "amazon-isbn",
+  "asin": "0819874213",
+  "file": "443.jpg",
+  "w": 303,
+  "h": 500
+ },
+ "444": {
+  "source": "amazon-isbn",
+  "asin": "0867168404",
+  "file": "444.jpg",
+  "w": 317,
+  "h": 500
+ },
+ "442": {
+  "source": "amazon-isbn",
+  "asin": "1934217557",
+  "file": "442.jpg",
+  "w": 324,
+  "h": 500
+ },
+ "446": {
+  "source": "amazon-isbn",
+  "asin": "1935940090",
+  "file": "446.jpg",
+  "w": 321,
+  "h": 500
+ },
+ "445": {
+  "source": "amazon-research",
+  "asin": "1888992131",
+  "file": "445.jpg",
+  "w": 305,
+  "h": 500
+ },
+ "449": {
+  "source": "amazon-isbn",
+  "asin": "1934217107",
+  "file": "449.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "448": {
+  "source": "amazon-isbn",
+  "asin": "1935940163",
+  "file": "448.jpg",
+  "w": 323,
+  "h": 500
+ },
+ "451": {
+  "source": "amazon-isbn",
+  "asin": "1934217859",
+  "file": "451.jpg",
+  "w": 500,
+  "h": 500
+ },
+ "454": {
+  "source": "amazon-isbn",
+  "asin": "0814631185",
+  "file": "454.jpg",
+  "w": 329,
+  "h": 500
+ },
+ "453": {
+  "source": "google-300",
+  "file": null,
+  "google": "out/covers_google/9781594173929.jpg",
+  "w": 300,
+  "h": 450
+ },
+ "452": {
+  "source": "amazon-research",
+  "asin": "1935940058",
+  "file": "452.jpg",
+  "w": 476,
+  "h": 500
+ },
+ "455": {
+  "source": "amazon-isbn",
+  "asin": "0814628850",
+  "file": "455.jpg",
+  "w": 334,
+  "h": 500
+ }
+}

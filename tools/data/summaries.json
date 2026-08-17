@@ -1,0 +1,827 @@
+[
+ {
+  "book_id": 6,
+  "summary": "Sesenta años después de las apariciones de San Sebastián de Garabandal (1961-1965), el periodista y escritor español José María Zavala recoge más de ocho horas de conversación grabada con Jacinta González, una de las cuatro niñas videntes, que hasta entonces había guardado silencio público. En las entrevistas, realizadas en 2021, Jacinta repasa su experiencia y habla de los mensajes vinculados a los llamados Aviso, Milagro y Castigo. Un testimonio de primera mano para quienes siguen con interés el fenómeno de Garabandal, que la Iglesia no ha reconocido oficialmente.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 15,
+  "summary": "Segunda encíclica del papa Francisco, publicada en 2015 y dedicada al «cuidado de la casa común». Partiendo del Cántico de las criaturas de san Francisco de Asís, el Papa examina la crisis ecológica —contaminación, cambio climático, pérdida de biodiversidad— junto con sus raíces humanas y sociales, y propone una «ecología integral» que une el cuidado de la naturaleza con la justicia hacia los pobres. Esta edición ofrece el texto íntegro del documento pontificio, útil tanto para la lectura personal como para grupos de estudio.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 25,
+  "summary": "Versión española de Understanding the Scriptures, el manual de Scott Hahn para la serie Didaché de Midwest Theological Forum. Es un curso completo de introducción a la Biblia desde la perspectiva católica: recorre la historia de la salvación desde el Génesis hasta el Apocalipsis, presenta cada libro y explica su lugar en el conjunto, poniendo de relieve el tema de la alianza entre Dios y su pueblo. Con resúmenes, vocabulario y cuestionarios, se usa como libro de texto en colegios y parroquias y también sirve para el estudio personal.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 34,
+  "summary": "Claire Russell's anthology gathers extracts from the Fathers of the Church—from the earliest post-apostolic writers to the great bishops and doctors of the patristic age—arranged in short, readable units on a wide range of doctrinal and spiritual themes. Published by Scepter, it was designed to give ordinary readers direct contact with the earliest voices of Catholic Tradition rather than commentary about them. At more than five hundred pages it serves both as a reference and as a source of daily spiritual reading.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 42,
+  "summary": "Bob y Penny Lord, matrimonio estadounidense conocido por sus programas en EWTN y sus libros de peregrinación, recorren en este volumen algunos de los milagros eucarísticos más célebres de la historia de la Iglesia —entre ellos los de Lanciano y Bolsena-Orvieto— visitando los santuarios donde se veneran las reliquias. Cada capítulo combina el relato del hecho, su contexto histórico y el testimonio de fe de los autores. Es la traducción española de su obra sobre los milagros de la Eucaristía, escrita para avivar la fe en la presencia real de Cristo en el Sacramento.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 47,
+  "summary": "Tim Staples, a former Assemblies of God youth pastor who became a Catholic apologist, adapted this handbook from his 'Nuts & Bolts' column in Envoy magazine. It walks step by step through fourteen of the most common objections Catholics hear—on the divinity of Christ, the Eucharist, confession, salvation and more—showing where to find the relevant Scripture passages and how to present them in conversation. Short and practical, it is meant to be used rather than merely read.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 54,
+  "summary": "A guide to the Catholic Mass—what its parts mean, how the liturgy unfolds from the Introductory Rites to the dismissal, and why Catholics hold the Eucharist to be the source and summit of Christian life—intended to help readers understand and take part in the liturgy more fully.",
+  "confidence": "low"
+ },
+ {
+  "book_id": 64,
+  "summary": "An overview of the Second Vatican Council (1962–1965), the ecumenical council opened by John XXIII and closed by Paul VI, whose sixteen documents renewed the liturgy, the Church's understanding of itself, its relations with other Christians and religions, and its engagement with the modern world. Presented as an introduction to the Council's history and teaching for the general reader.",
+  "confidence": "low"
+ },
+ {
+  "book_id": 73,
+  "summary": "Charles Theodore Murr, sacerdote estadounidense que vivió en Roma en los años setenta, relata lo que le confió su amigo el entonces arzobispo Édouard Gagnon acerca de la investigación de la Curia romana que Pablo VI le encargó y que, según Murr, sacó a la luz la presencia de prelados masones en puestos clave del Vaticano. Mezcla de memoria personal e historia, el libro recoge sus conversaciones con Gagnon y su propia lectura de lo que ocurrió con aquel informe en los pontificados de Pablo VI, Juan Pablo I y Juan Pablo II. Edición en español de Murder in the 33rd Degree.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 80,
+  "summary": "Carlo Carretto (1910-1988), dirigente de la juventud de Acción Católica italiana que a los cuarenta y cuatro años lo dejó todo para unirse a los Hermanitos de Jesús en el desierto del Sáhara, repasa su vida en estas conversaciones recogidas por Gian Carlo Sibilia. Habla de sus años de militancia, de la llamada al desierto que dio origen a Cartas del desierto, de la comunidad de Spello y de la fe sencilla y radical que marcó su camino. Un retrato en primera persona de uno de los maestros espirituales más leídos del siglo XX.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 92,
+  "summary": "Immaculée Ilibagiza picks up where Left to Tell ended: the months and years after the 1994 Rwandan genocide, in which she lost most of her family. She describes rebuilding a life in a shattered country, her work for the United Nations, her struggle to forgive the men who killed her relatives, and her eventual move to the United States. Written with Steve Erwin, it is above all an account of how faith and forgiveness carried her through the aftermath.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 107,
+  "summary": "Michele Zanzucchi, periodista italiano vinculado al Movimiento de los Focolares, narra la breve vida de Chiara «Luce» Badano (1971-1990), una adolescente de Sassello, en Liguria, alegre y deportista, que a los diecisiete años enfermó de un cáncer óseo y vivió su enfermedad y su muerte con una serenidad y una fe que impresionaron a cuantos la rodearon. El libro, publicado en español por Ciudad Nueva, la presenta como modelo para los jóvenes; Chiara Luce fue beatificada en 2010.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 131,
+  "summary": "La escritora española María Vallejo-Nágera cuenta en esta novela, basada en hechos reales, la historia de un preso inglés extremadamente violento —exgánster, adicto y ladrón— cuya vida cambia de raíz tras la intervención de un ángel. Fue el propio protagonista quien eligió a la autora para poner por escrito su conversión. Publicada por primera vez en 2003, se convirtió en uno de sus libros más leídos y ha sido reeditada muchas veces; esta es la edición de Ciudadela.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 143,
+  "summary": "Álbum ilustrado de pequeño formato para niños, escrito por Ted O'Neal y publicado en español por San Pablo. En medio de la ilusión por los regalos y las fiestas, quiere ayudar a los más pequeños a recordar cuál es el verdadero sentido de la Navidad y a celebrarla sin perder su carácter sagrado. Con textos breves e ilustraciones, es un recurso sencillo para leer en familia durante las fiestas navideñas.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 163,
+  "summary": "Biografía ilustrada de san Josemaría Escrivá pensada para niños, escrita por Enrique Muñiz (con Álvaro Matud) y publicada por Monte Carmelo en la colección «Gente Menuda», dedicada a vidas ejemplares. Con lenguaje sencillo y abundantes dibujos, recorre la infancia del santo en Barbastro y Logroño, su vocación sacerdotal, la fundación del Opus Dei en 1928 y su mensaje de santidad en la vida ordinaria. Sirve para la primera lectura de los pequeños o para leerla en familia.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 174,
+  "summary": "Volume VIII of Atila Sinke Guimarães's multi-volume collection Eli, Eli, Lamma Sabacthani?, published by Tradition in Action. Writing from a traditionalist Catholic standpoint, Guimarães argues that the 'Progressivism' he sees at work in the Church since Vatican II draws its deepest ideas—an eternal feminine, a Christ pre-existing before time, an androgynous Adam—from Gnosticism and the Kabbalah, and he documents his case with extensive quotations from modern theologians. A dense, heavily footnoted polemic for readers already familiar with the debates over the Council.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 181,
+  "summary": "Four sermons Newman preached in Advent 1835, while still an Anglican, and published as Tract 83 of the Tracts for the Times. Rather than offering predictions, he sets out what the early Church Fathers taught about the Antichrist—the times of his coming, his religion, his city and his persecution—and draws lessons of watchfulness for Christians in every age. This CEDET edition presents the text under the title The Patristical Idea of Antichrist.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 192,
+  "summary": "Sheri McGregor, herself the mother of an estranged adult son, wrote this guide for parents cut off by their grown children. Drawing on a survey of thousands of parents in the same situation and on her own experience, she addresses the shock, grief and shame that follow estrangement, offers exercises for working through them, and encourages parents to stop waiting and rebuild lives that are meaningful now. Practical rather than clinical, it has become a standard resource on a painful and rarely discussed subject.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 206,
+  "summary": "Devocionario para rezar el Rosario según la propuesta de san Juan Pablo II en su carta apostólica Rosarium Virginis Mariae (2002), en la que añadió los misterios luminosos —el bautismo de Jesús, las bodas de Caná, el anuncio del Reino, la Transfiguración y la institución de la Eucaristía— a los tradicionales gozosos, dolorosos y gloriosos. Recoge los veinte misterios y las oraciones del Rosario para acompañar el rezo diario, personal o en familia, en el espíritu de contemplación de Cristo con María que el Papa quiso subrayar.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 215,
+  "summary": "Sonja Corbitt, the Bible teacher known as the 'Bible Evangelista', takes Mary—the 'mother of listening'—as a model for prayer. Beginning with the Annunciation and moving through the Gospel scenes in which Mary appears, she teaches her LOVE the Word method (Listen, Observe, Verbalize, Entrust) for praying with Scripture each day and learning to tell God's voice from one's own thoughts. Warm and anecdotal, it pairs with a companion video series from Ascension.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 223,
+  "summary": "Monseñor Alberto José González Chaves, sacerdote y escritor español, expone el fundamento bíblico y patrístico de dos títulos marianos que han sido objeto de debate en los últimos años: Medianera y Corredentora. Desde el protoevangelio del Génesis hasta la mujer vestida de sol del Apocalipsis, presenta a María como la nueva Eva asociada de modo único —y siempre subordinado— a la obra redentora de su Hijo, y aclara que llamarla Corredentora no la iguala a Cristo, sino que reconoce su participación singular en el misterio de la Cruz.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 231,
+  "summary": "Written by Fr. Joseph Thomas and edited by James Socias for Scepter's introductory theology series, this compact volume surveys the Church's teaching about the Blessed Virgin. It draws on Scripture, the Fathers and the councils to explain her divine motherhood, the Immaculate Conception, the Assumption and her cooperation in Christ's redemptive work, with a closing look at St. Joseph. Clear enough for a beginner and well sourced enough for a study group.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 249,
+  "summary": "The 'Blue Book' of the Marian Movement of Priests: a collection of the messages that Fr. Stefano Gobbi, an Italian priest, said he received from the Virgin Mary as interior locutions between 1973 and 1997. Addressed first to priests but read widely by lay members of the movement, the messages call for consecration to the Immaculate Heart, fidelity to the Pope, the Rosary and cenacles of prayer, and speak often of the trials of the Church and the coming triumph of Mary's Heart. Successive editions gather the messages year by year.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 257,
+  "summary": "La periodista española Pilar Urbano reconstruye los años romanos de san Josemaría Escrivá, desde su llegada a Roma en 1946 hasta su muerte en 1975 en Villa Tevere, la sede central del Opus Dei. A partir de cientos de testimonios de quienes convivieron con él, ofrece un retrato cercano y lleno de anécdotas: su carácter, su sentido del humor, su fe, las dificultades de aquellos años y su trato con las personas. Más crónica viva que biografía académica, es una de las semblanzas más leídas del fundador.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 270,
+  "summary": "Primer volumen de El Fundador del Opus Dei, la biografía documentada de san Josemaría Escrivá escrita por el diplomático e historiador Andrés Vázquez de Prada, que abarca desde su nacimiento en Barbastro en 1902 hasta el estallido de la Guerra Civil en 1936. El título recoge la jaculatoria «¡Señor, que vea!» que el joven sacerdote repetía en los años previos a la fundación del Opus Dei, el 2 de octubre de 1928. Con abundante aparato de fuentes —cartas, apuntes íntimos y testimonios—, es la obra de referencia para conocer los orígenes de la Obra.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 277,
+  "summary": "A Sunday-by-Sunday companion to the Mass readings from Scripture scholar Scott Hahn, with catechist Ken Ogorek. For each Sunday and major feast of the liturgical year, Hahn offers a short reflection on how the readings fit together in the story of salvation, followed by a related passage from the Catechism and a brief prayer. Published in separate volumes for Years A, B and C, it is meant to be read at home before Mass so that the readings land more deeply.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 281,
+  "summary": "Selección del diario íntimo de Concepción Cabrera de Armida, «Conchita» (1862-1937), esposa, madre de nueve hijos, viuda y mística mexicana, inspiradora de las Obras de la Cruz y beatificada en 2019. Sus páginas muestran cómo una madre de familia, entre las tareas del hogar, la educación de los hijos y grandes dolores, vivió una intensa vida de unión con Cristo, con la Cruz y la Eucaristía en el centro. Un testimonio de que la santidad es posible en la vida ordinaria del matrimonio y de la familia.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 297,
+  "summary": "Meditations for every day of Lent, from Ash Wednesday to Good Friday, drawn from the sermons of St. John Henry Newman and lightly modernized by Christopher O. Blum of the Augustine Institute. The title comes from Newman's sermon on Christ weeping at the tomb of Lazarus, and the readings dwell on the reality of sin, the cost of discipleship and the sufferings of Christ in short daily portions suited to prayer. A good introduction to Newman's preaching for those who have never read him.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 309,
+  "summary": "Biografía del beato Carlos Manuel Rodríguez Santiago, «Charlie» (1918-1963), laico puertorriqueño de Caguas, catequista y pionero del movimiento litúrgico en la isla, primer beato de Puerto Rico (2001). El padre José María González Unzurrunzaga se apoya en la documentación del proceso de beatificación y en entrevistas con los hermanos de Charlie para trazar su vida sencilla y su intensa vida interior, marcada por la enfermedad y por su amor a la Vigilia Pascual, resumido en su frase «Vivimos para esa noche».",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 318,
+  "summary": "Primer tomo (enero-junio) de un martirologio de lectura diaria: para cada día del año, el sacerdote Jorge López Teulón, estudioso de la persecución religiosa en España, presenta la vida y el martirio de católicos —laicos, religiosos, sacerdotes y obispos— asesinados por odio a la fe durante la persecución de 1936-1939, muchos de ellos ya beatificados. Los relatos, documentados y escritos con viveza narrativa, están pensados para la meditación breve de cada día. Publicado por EDIBESA en dos volúmenes.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 330,
+  "summary": "En 1994 el periodista italiano Vittorio Messori planteó por escrito a Juan Pablo II una serie de preguntas directas sobre la fe, y el Papa las respondió de su puño y letra: ¿existe Dios?, ¿por qué permite el sufrimiento?, ¿qué son la salvación y la vida eterna?, ¿qué pensar de las demás religiones?, ¿tienen esperanza los jóvenes? El resultado es este libro-entrevista, traducido a decenas de lenguas, en el que Karol Wojtyła habla de su fe con una cercanía poco habitual en un pontífice.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 343,
+  "summary": "Un breve texto de santa Teresita del Niño Jesús para cada día del año, seleccionado por Néstor Dante Saporiti de sus escritos y de los testimonios sobre su vida, en un formato de bolsillo que se lee en unos minutos. Forma parte de la serie «Los cinco minutos de…» de la Editorial Claretiana de Buenos Aires. Una manera sencilla de familiarizarse con el «caminito» de confianza y abandono de la santa de Lisieux, doctora de la Iglesia.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 351,
+  "summary": "A commemorative volume produced by Time's special-editions unit after the death of John Paul II in April 2005, combining the magazine's photographic archive with essays on the main chapters of his life, from his Polish youth to his long pontificate and his final years. It is a photojournalistic tribute rather than a biography, one of many such publications produced by news organizations that spring.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 359,
+  "summary": "Vida de san Atanasio (c. 296-373), obispo de Alejandría y doctor de la Iglesia, escrita por la religiosa escocesa Frances Alice Forbes, autora de una serie de biografías breves de santos a comienzos del siglo XX. Con estilo ágil y narrativo, sigue su lucha contra la herejía arriana, su defensa de la divinidad de Cristo proclamada en el Concilio de Nicea y sus cinco destierros, y presenta a un pastor tenaz que se mantuvo firme cuando casi todo el mundo cristiano parecía haber cedido. Una biografía asequible para jóvenes y adultos.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 364,
+  "summary": "Antología de textos de Juan Pablo II sobre el amor humano, el matrimonio y la sexualidad, tomados de sus catequesis, discursos y documentos, y reunidos por temas por los monjes benedictinos de la abadía de Solesmes, conocidos por sus recopilaciones del magisterio pontificio. La selección presenta la visión del Papa sobre el cuerpo, la castidad, el amor conyugal y la familia, en la línea de lo que se conoce como la «teología del cuerpo». Editada por Salvat en 1999, en un volumen breve y accesible.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 371,
+  "summary": "La autora española Paloma Pía Gasset reúne una veintena de entrevistas inéditas, realizadas entre 2010 y 2018, con personas que conocieron de cerca al Padre Pío de Pietrelcina: entre ellas Sor Consolata di Santo, testigo clave en su proceso de canonización; el sacerdote Paolo Covino, que le administró los últimos sacramentos; el exorcista Gabriele Amorth; su fotógrafo Elia Stelutto; y Gemma di Giorgi, la niña nacida sin pupilas que recuperó la vista. Muchos de los entrevistados ya han fallecido, lo que convierte el libro en un archivo valioso de testimonios directos.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 391,
+  "summary": "Breve biografía de Carlos Manuel Rodríguez Santiago, «Charlie» (1918-1963), el laico de Caguas que fue catequista, promotor de la liturgia y apóstol entre los universitarios, y que en 2001 se convirtió en el primer beato de Puerto Rico. Publicada por el Círculo Carlos M. Rodríguez, la asociación que promueve su causa y su memoria, presenta su vida sencilla y su mensaje de santidad laical, con el interrogante del título como invitación a conocerlo.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 403,
+  "summary": "A short booklet reproducing the 'Heaven' section of Climbing the Mountain, one of the volumes published by Direction for Our Times from the writings of 'Anne, a lay apostle', an American laywoman living in Ireland who reports receiving messages from Jesus. Beginning in August 2005, she says she was allowed brief mystical experiences of heaven, and here she records what she was shown as an encouragement to holiness and to trust in God's closeness. It serves as an introduction to the larger book and to the apostolate's spirituality.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 414,
+  "summary": "Jesús Urteaga (1921-2009), sacerdote, escritor y comunicador, recoge aquí, con la colaboración de Manuel Aguado, las charlas televisivas del programa «Sólo para menores de dieciocho años», cuyo lema da título al libro. Dirigido sobre todo a los jóvenes, trata temas básicos de formación humana y cristiana —el esfuerzo, la tenacidad, la libertad, la solidaridad, el amor, el dolor, la generosidad y el heroísmo— con el tono directo y optimista que hizo populares sus libros. Publicado por Rialp y reeditado muchas veces.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 431,
+  "summary": "One of Ascension Press's short Theology of the Body pamphlets, written by speaker and author Katrina Zeno. Addressed to couples living together before marriage and to those who care about them, it uses St. John Paul II's teaching on the meaning of the body and of self-gift to explain why the Church holds that sexual union belongs within the total, permanent commitment of marriage. Designed for parish racks and marriage-preparation programs, it can be read in a few minutes.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 442,
+  "summary": "A brief pamphlet in which Christopher West, the best-known popularizer of St. John Paul II's Theology of the Body, sets out its central ideas: that the human body is a sign of God's love, that man and woman are made for self-gift, and that this vision answers the deepest questions about love, sex, marriage and celibacy. Published by Ascension Press for parish use, it is a starting point for those who want a quick overview before tackling West's longer books or the papal audiences themselves.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 454,
+  "summary": "The participant's study guide for the Little Rock Scripture Study course on the Book of Revelation, published by Liturgical Press. It divides the book into lessons, each with focused questions for personal study and small-group discussion, along with prayers and space for notes, and is designed to be used with the accompanying commentary volume and the program's lectures. Little Rock Scripture Study, sponsored by the Diocese of Little Rock, has run parish-based Catholic Bible study since the 1970s.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 7,
+  "summary": "Catholic historian Diane Moczar surveys the last five hundred years of Church history as a series of assaults on the Church—from the Protestant revolt and the wars of religion through the Enlightenment, the French Revolution, nineteenth-century liberalism and the totalitarian ideologies of the twentieth century. Written for the general reader rather than the specialist, it explains how each crisis arose, how popes, saints and ordinary Catholics responded, and why the Church endured. A brisk, unabashedly Catholic reading of modern history that pairs well with her earlier Ten Dates Every Catholic Should Know.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 19,
+  "summary": "Sin más datos de edición, se trata de un catecismo católico: una exposición ordenada de las verdades de la fe, los sacramentos, los mandamientos y la oración, pensada para la enseñanza y la consulta más que para leerse de un tirón. Puede tratarse del Catecismo de la Iglesia Católica o de un catecismo escolar o parroquial de formato más breve; en cualquier caso, es la obra de referencia para repasar la doctrina de manera sistemática y para acompañar la catequesis en casa.",
+  "confidence": "low"
+ },
+ {
+  "book_id": 28,
+  "summary": "El sacerdote madrileño Antonio de la Torre Munilla, ingeniero de telecomunicaciones y doctor en Teología, presenta el Antiguo Testamento como la crónica de la alianza que Dios selló con Israel para preparar la alianza definitiva en Jesucristo. El libro explica el valor y el sentido de estos escritos, recorre su historia, resume sus enseñanzas más relevantes y se detiene en figuras clave como Abrahán, Moisés, David, los profetas y los sabios de Israel. Forma parte de la colección «Buscando entender» de Ediciones Palabra y está pensado como una introducción accesible para lectores sin formación bíblica previa.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 35,
+  "summary": "Primer volumen de una historia de la Iglesia de intención formativa y apologética, escrita por Gabriel Calvo Zarraute, sacerdote de la archidiócesis de Toledo con formación en teología fundamental, historia de la Iglesia y derecho canónico, y prologada por monseñor Athanasius Schneider. Abarca desde el mundo romano y judío de la «plenitud de los tiempos» hasta la época visigoda: la fundación de la Iglesia y el primado de Pedro, la misión de san Pablo, las persecuciones de Nerón a Diocleciano, la paz constantiniana, las grandes herejías y los concilios de Nicea, Constantinopla, Éfeso y Calcedonia, con especial atención a la Iglesia hispana (concilios de Toledo, liturgia hispánica, san Isidoro). Está concebido como manual, con esquemas, cuestionarios y bibliografía para estudiar y enseñar.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 43,
+  "summary": "Antología ilustrada de relatos bíblicos para los más pequeños, de la autora infantil británica Jillian Harker. Recoge las historias más conocidas del Antiguo y del Nuevo Testamento contadas con frases breves y sencillas, adaptadas a la comprensión de un niño, y acompañadas en cada página de ilustraciones a todo color; sirve tanto para leer en voz alta como para las primeras lecturas en solitario. Un libro para acercar a los niños a la Biblia de forma amena, más que un texto de catequesis.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 48,
+  "summary": "Con toda probabilidad se trata del célebre compendio del jesuita español Jorge Loring (1921-2013), subtitulado «Enciclopedia del católico en el siglo XXI»: una exposición apologética de la fe católica, ordenada por temas —existencia de Dios, Jesucristo, la Iglesia, los sacramentos, la moral, la vida eterna—, que responde a las objeciones más habituales con lenguaje llano, abundantes citas y datos de todo tipo. Reeditado decenas de veces y repartido a gran escala, ha sido durante décadas un manual de consulta popular para catequistas y para cualquier católico que quiera dar razón de su fe.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 57,
+  "summary": "Without further publication details, this is evidently an edition of, or a study resource on, the Gospel according to Mark—the shortest and, by most accounts, the earliest of the four Gospels, a fast-moving narrative of the ministry, Passion and Resurrection of Jesus that presents him above all as the suffering Son of God and Servant. Volumes of this kind are meant to be read alongside the biblical text a chapter at a time, whether for personal lectio divina or in a parish study group.",
+  "confidence": "low"
+ },
+ {
+  "book_id": 66,
+  "summary": "A textbook-style introduction to the whole Bible by Scott Hahn, part of Midwest Theological Forum's Didache Series for Catholic high schools and adult study. It walks through salvation history from Genesis to the early Church—the covenants with Adam, Noah, Abraham, Moses and David and their fulfilment in Christ—while explaining how Catholics read Scripture, the relationship between the Old and New Testaments, and the Church's teaching on inspiration and interpretation. Each chapter comes with review questions, vocabulary and sidebars, and the volume is richly illustrated with sacred art, so it works both as a course text and as a family reference.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 74,
+  "summary": "Guy Consolmagno, an MIT-trained planetary scientist who became a Jesuit brother and now directs the Vatican Observatory, reflects on what it means to be both a working astronomer and a religious believer. Mixing memoir with essays, he recounts life at the Vatican Observatory, his meteorite research (including a season hunting meteorites in Antarctica) and the old Galileo question, arguing that faith and science are not rivals but complementary ways of seeking truth. Warm, funny and self-deprecating, it is as much about vocation as it is about the stars.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 82,
+  "summary": "Cuatro sacerdotes de la diócesis de Versalles —Pierre-Hervé Grosjean, Pierre Amar, Jean-Baptiste Bienvenu y Gaultier de Chaillé, conocidos en Francia por su presencia en internet, las redes sociales y la televisión— responden con brevedad y claridad a setenta preguntas actuales sobre Dios y la vida cristiana. Las respuestas se agrupan en siete capítulos: qué hay que creer, la vida después de la muerte, las dificultades para rezar, la Iglesia, el encuentro con Jesús, la afectividad y la fe en la vida diaria. Un libro para leer a saltos, pensado para jóvenes y para quien busca respuestas directas sin lenguaje de manual.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 97,
+  "summary": "Testamento espiritual del padre Gabriele Amorth (1925-2016), paulino y durante décadas exorcista de la diócesis de Roma, en forma de larga entrevista con la periodista Elisabetta Fezzi. Más que un catálogo de casos, el libro recorre su fe, su amor a Dios y su devoción a la Virgen, y ofrece una catequesis sencilla sobre el demonio, la tentación, los sacramentos y la oración desde la experiencia del exorcista más conocido del mundo, fundador de la Asociación Internacional de Exorcistas.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 111,
+  "summary": "Obra de Luis Eduardo López Padilla, abogado con estudios de filosofía y teología y autor prolífico de libros sobre los últimos tiempos, el Apocalipsis y las apariciones marianas («Advertencias marianas», «El gran aviso de Dios», entre otros). Publicado en 2004, expone su lectura de las profecías y de los signos de los tiempos en torno a una idea central: un mundo desordenado y sometido al mal que será vencido por la manifestación gloriosa de Cristo en su Parusía, que el autor considera inminente. Se inscribe en la literatura profética católica de divulgación, muy apoyada en revelaciones privadas.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 135,
+  "summary": "El periodista y escritor José María Zavala repasa los descubrimientos arqueológicos y científicos más recientes relacionados con Jesús de Nazaret: el baño ritual de hace dos mil años hallado al pie del huerto de los Olivos, el osario de Caifás —el sumo sacerdote que intervino en su condena—, la corona de espinas, el Santo Grial de la Última Cena y los lienzos que envolvieron su cuerpo tras la crucifixión, con la Sábana Santa a la cabeza. Con estilo periodístico y afán divulgativo, muestra hasta qué punto la historia y la ciencia respaldan el relato de los Evangelios. Un libro para creyentes y curiosos por igual.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 155,
+  "summary": "Álbum ilustrado de la colección Arcoíris de Paulinas, escrito por la autora italiana Silvia Vecchini con ilustraciones de Antonio Vincenti, que presenta a los niños las obras de misericordia, corporales y espirituales, una a una. Cada obra se explica con lenguaje actual y a partir de situaciones reales de la vida de un niño —dar de comer al hambriento, dar de beber al sediento, vestir al desnudo…—, para que las entiendan desde su propio mundo y las practiquen en el día a día. Publicado coincidiendo con el Jubileo de la Misericordia, sirve tanto en casa como en catequesis.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 167,
+  "summary": "Casi con seguridad se trata del célebre «Breve relato del Anticristo» del filósofo ruso Vladímir Soloviov (1853-1900), la parte final de sus «Tres conversaciones». En forma de ficción profética, describe la aparición en el siglo XXI de un superhombre filántropo y pacifista que llega a ser emperador del mundo, seduce a las iglesias con sus promesas de bienestar y unidad y es finalmente desenmascarado por un pequeño resto fiel de católicos, ortodoxos y protestantes. Un texto breve y sorprendentemente actual, citado con admiración por Benedicto XVI, sobre la diferencia entre el cristianismo y sus imitaciones humanitarias.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 177,
+  "summary": "La periodista española Cristina Martín Jiménez, doctora en Comunicación con la primera tesis académica sobre el Club Bilderberg y autora en 2005 del primer libro dedicado a ese foro, actualiza aquí su investigación sobre las élites políticas y financieras que se reúnen a puerta cerrada. Sostiene que ese poder «en la sombra» influye en gobiernos, medios y crisis internacionales, y repasa las estrategias con que, a su juicio, se mantiene a la población atemorizada y, por tanto, controlada. Publicado por Martínez Roca en 2017, es un ensayo de denuncia de tono polémico, para leer con espíritu crítico.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 183,
+  "summary": "Catholic lawyer and traditionalist writer Christopher A. Ferrara takes aim at the attempt—associated with the Austrian school of economics and its Catholic admirers, and written in large part as a rejoinder to Thomas E. Woods—to reconcile free-market libertarianism with the faith. Drawing on the social encyclicals from Leo XIII to Benedict XVI, he argues that the Church's teaching on man, the economy and the state cannot be squared with the radical individualism of Mises and Rothbard, and defends the older Catholic vision of a moral economy ordered to the common good. Long, combative and heavily footnoted, it is a sustained polemic rather than an introduction, best read with the encyclicals at hand.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 193,
+  "summary": "Kate Bowler—Duke Divinity School historian, podcaster and author of Everything Happens for a Reason (and Other Lies I've Loved)—offers a book of short daily reflections for lives that are, as she puts it, beautiful and terrible at the same time. Each entry pairs a brief meditation with a blessing and a small suggested step, aimed at the ups, downs and in-betweens: grief, waiting, exhaustion, ordinary joy. Written out of her own experience of a stage-four cancer diagnosis, it is honest and often funny, and it deliberately avoids the tidy positivity she has spent her career critiquing. Suitable for readers of any Christian tradition.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 207,
+  "summary": "Clásico de la devoción mariana escrito por san Luis María Grignion de Montfort (1673-1716), misionero bretón y gran predicador del Rosario. Organizado en «rosas» y «decenas», expone el origen del Rosario, su excelencia y los frutos que promete, con abundantes ejemplos y relatos tomados de la tradición dominica, y termina con indicaciones muy prácticas para rezarlo bien —con atención, con las intenciones adecuadas, en común— y con métodos para meditar los misterios. Breve y de lectura fácil, sigue siendo la explicación más difundida de esta oración.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 216,
+  "summary": "French Dominican theologian H. M. Manteau-Bonamy examines the boldest and most original strand of St. Maximilian Kolbe's thought: his intuition, expressed most fully in the pages he wrote on the very morning of his arrest in 1941, that the Immaculate Conception is a created reflection of the Holy Spirit—the 'uncreated Immaculate Conception'—and Mary in some sense a 'quasi-incarnation' of the Spirit. The book gathers Kolbe's scattered writings on Mary, the Holy Spirit and the Militia Immaculatae, sets them within Catholic doctrine and argues that they are theologically sound. A demanding but rewarding little book for anyone drawn to Kolbe's Marian consecration.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 224,
+  "summary": "Obra de piedad mariana del sacerdote operario diocesano Justo López Melús, durante muchos años director espiritual del seminario de Toledo y autor de numerosos libros de espiritualidad de tono sencillo, entre ellos «El santo de cada día» y la serie «Caminos de santidad». Presenta la vida de la Virgen María y su lugar en la historia de la salvación como una historia de amor entre Dios y su criatura predilecta, en reflexiones breves que se prestan a la lectura pausada y a la meditación.",
+  "confidence": "low"
+ },
+ {
+  "book_id": 233,
+  "summary": "El periodista español Pablo Rioja viajó a Medjugorje (Bosnia-Herzegovina) en 2012, 2013 y 2015 para investigar sobre el terreno el fenómeno de las presuntas apariciones marianas que se remontan a 1981. Este libro, publicado en 2023, recoge el diario de aquellos viajes: encuentros con endemoniados, curaciones de enfermos, conversiones y su propio encuentro personal con Dios. Escrito como testimonio directo más que como estudio, es la crónica vivida de uno de los lugares de peregrinación mariana más visitados y discutidos de las últimas décadas.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 252,
+  "summary": "Biografía de sor Lucía de Jesús y del Corazón Inmaculado (1907-2005), la mayor de los tres pastorcitos de Fátima, escrita por sus hermanas del Carmelo de Coímbra, donde vivió desde 1948 hasta su muerte. A partir de la convivencia diaria, de sus escritos y de numerosos testimonios, recorre toda su vida: la infancia en Aljustrel y las apariciones de 1917, los años con las Doroteas en España, la entrada en el Carmelo, sus encuentros con Juan Pablo II, hasta sus últimos años y su fama de santidad. Más de quinientas páginas que muestran a la vidente por dentro, como religiosa contemplativa y no solo como testigo de Fátima.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 258,
+  "summary": "Primera recopilación de homilías de san Josemaría Escrivá de Balaguer, fundador del Opus Dei, publicada en 1973 y reeditada desde entonces innumerables veces. Sus dieciocho homilías siguen el año litúrgico —Adviento, Navidad, Cuaresma, Pascua, Pentecostés, Corpus Christi, la Asunción, Cristo Rey— y desarrollan el núcleo de su mensaje: la llamada universal a la santidad, la santificación del trabajo y de la vida ordinaria, el matrimonio como vocación, la libertad de los hijos de Dios y la vida de oración en medio del mundo. Es una de las obras más leídas de la espiritualidad católica del siglo XX y un buen punto de entrada a su pensamiento.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 271,
+  "summary": "Biografía extensa del beato Álvaro del Portillo (1914-1994), ingeniero madrileño, colaborador más cercano de san Josemaría durante cuarenta años y su primer sucesor al frente del Opus Dei, escrita por el sacerdote Javier Medina Bayo a partir de documentos, cartas y testimonios. Recorre su infancia en Madrid, la guerra civil, su trabajo en el Concilio Vaticano II y en la Curia romana, su gobierno de la Obra desde 1975 y su muerte al regresar de Tierra Santa. El título resume el rasgo que todos destacaron en él: una fidelidad serena y sin protagonismo. La edición coincide con su beatificación en Madrid en 2014.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 278,
+  "summary": "Anne, a lay apostle—the pen name of Kathryn Ann Clarke, an American-born writer living in Ireland—tells how, after a visit to Medjugorje, she began to receive what she describes as interior locutions from Jesus, Mary and the saints, and how the mission she calls Direction for Our Times took shape in obedience to the Church. The book also summarises her mystical experiences of heaven and sets out her understanding of the personal call to holiness that every believer must answer. As with all private revelation, it is offered for the reader's prayerful discernment.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 283,
+  "summary": "A short companion to Atila Sinke Guimarães's eleven-volume Collection on the Second Vatican Council, itself titled Eli, Eli, Lamma Sabacthani? Michael Saint Amand puts forty-five questions to the Brazilian traditionalist author about what prompted the Collection, the ground it covers, how it was researched and written, and the obstacles met along the way. The booklet adds biographies of Guimarães and of his mentor Prof. Plinio Corrêa de Oliveira, a glossary of unfamiliar terms, and the words Prof. Plinio wrote to mark the beginning and end of the project—an introduction, in short, for readers before they tackle the series itself.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 299,
+  "summary": "French priest Jacques Philippe, of the Community of the Beatitudes, wrote this brief guide to mental prayer for ordinary Christians who want to pray but do not know how, or find it hard to persevere. He insists that prayer is above all a matter of faithful presence rather than technique or feelings, discusses the conditions that make it fruitful—fidelity, humility, a fixed time, silence—and addresses the usual difficulties of distraction and dryness, drawing on Teresa of Avila, John of the Cross, Thérèse of Lisieux and Francis de Sales. Short, practical and encouraging, it has become one of the most widely read introductions to prayer of recent decades.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 313,
+  "summary": "Escrito por santa Teresa de Jesús hacia 1566 para las monjas del primer convento reformado, San José de Ávila, a petición de ellas, el «Camino de perfección» es su tratado más directo sobre la vida de oración. Tras exponer las tres virtudes que la sostienen —el amor mutuo, el desasimiento y la humildad—, explica qué es la oración mental y la contemplación y termina con un comentario, frase a frase, del Padrenuestro, la parte más leída de la obra. Monte Carmelo, la editorial de los carmelitas descalzos de Burgos, está especializada en las ediciones teresianas.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 319,
+  "summary": "Folleto para rezar el Rosario en compañía de Faustino Pérez-Manglano (1946-1963), el colegial valenciano de los marianistas que murió de una enfermedad a los dieciséis años y que la Iglesia ha declarado venerable. Su autor, el marianista José María Salaverri, biógrafo y principal divulgador de Faustino, ilustra cada misterio con palabras y rasgos de la vida de este muchacho —su devoción a la Virgen, su rezo diario del Rosario, su alegría en la enfermedad—, de modo que la oración se convierte también en una presentación de Faustino para otros jóvenes. Reeditado varias veces y distribuido gratuitamente por su causa de beatificación.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 339,
+  "summary": "«Las Moradas» o «Castillo interior» (1577) es la obra cumbre de santa Teresa de Jesús y uno de los grandes clásicos de la mística cristiana. La santa compara el alma con un castillo de cristal con siete moradas y describe el camino que va desde la oración vocal y el conocimiento propio de las primeras estancias hasta la unión transformante con Dios en el centro, pasando por la oración de quietud, los arrobamientos y el matrimonio espiritual. Escrita en pocos meses, con la claridad y el humor de su prosa castellana, es a la vez mapa de la vida interior y testimonio de su propia experiencia.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 344,
+  "summary": "Edición en español de un libro ilustrado de recuerdo, típico de las librerías romanas, publicado en vísperas del Jubileo del año 2000. Recoge la serie completa de los papas desde san Pedro hasta Juan Pablo II —con las fotografías en color de los medallones en mosaico de la basílica de San Pablo Extramuros, la galería pontificia más antigua y completa que existe—, junto con los antipapas, un resumen de los concilios ecuménicos y una historia de los jubileos y años santos. Más obra de consulta y de imágenes que de lectura seguida, en 128 páginas.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 354,
+  "summary": "A one-volume reprint from Aeterna Press gathering four blocks of writings by St. Athanasius (c. 296-373), bishop of Alexandria, Doctor of the Church and the great defender of the divinity of Christ against Arianism: Against the Heathen, the Festal Epistles (his annual Easter letters, one of which contains the earliest surviving list of the twenty-seven books of the New Testament), and two groups of Select and Later Treatises. The texts come from the nineteenth-century Nicene and Post-Nicene Fathers translations, so the English is old-fashioned but reliable; there is little apparatus, and the value lies in having the works together in one place. Best approached with some background in the fourth-century controversies.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 361,
+  "summary": "Catholic psychologist and writer Jean M. Heimann pairs seven saints with the seven virtues that answer the seven deadly sins—among them St. Agnes for chastity, St. Joseph for humility, St. Catherine of Siena for kindness, St. Monica for patience and St. John Paul II for diligence—showing how each lived that virtue in very different circumstances. Every chapter opens with a quotation from the saint and offers a short biography, a reflection on the saint's spirituality with concrete suggestions for imitating it, and a closing prayer for the saint's intercession. First published by Servant Books in 2014, it is a light, practical read for personal devotion or a small group.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 365,
+  "summary": "Antología de textos del magisterio pontificio sobre los derechos humanos, seleccionados y ordenados por los monjes benedictinos de la abadía de Solesmes, conocidos por sus recopilaciones temáticas de enseñanzas de los papas. Reúne pasajes de encíclicas, discursos y mensajes en los que la Iglesia expone la dignidad de la persona, la libertad religiosa, la justicia y los deberes correlativos a los derechos, y está pensada como obra de consulta más que de lectura continuada. Edición española de Salvat (1999).",
+  "confidence": "low"
+ },
+ {
+  "book_id": 379,
+  "summary": "A short booklet on St. Catherine Labouré (1806-1876), the Daughter of Charity to whom the Virgin Mary appeared in 1830 in the chapel of the Rue du Bac in Paris and entrusted the Miraculous Medal, of the kind offered at the shrine itself. It recounts the apparitions and the striking of the medal, explains its symbolism—the rays of grace from Mary's hands, the invocation 'O Mary, conceived without sin, pray for us who have recourse to thee'—and reflects on Catherine's hidden life of service to the poor, giving the reader the essentials of the message together with a few prayers.",
+  "confidence": "low"
+ },
+ {
+  "book_id": 393,
+  "summary": "El psiquiatra Fernando Sarráis, doctor en Medicina y licenciado en Psicología, clínico y profesor en la Universidad de Navarra, condensa en treinta consejos breves lo aprendido en años de consulta y de docencia. Los consejos —de dificultad y alcance muy distintos, presentados sin orden jerárquico— se apoyan en la psicología positiva y en la antropología cristiana y pretenden funcionar como una «vacuna» contra la ansiedad, la depresión y el estrés: cómo mirar los problemas, ordenar los afectos, cuidar las relaciones y afrontar la vida con esperanza. Un libro corto, de lectura fácil, pensado para releerse a ratos.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 410,
+  "summary": "El psicoterapeuta y mediador familiar italiano Salvo Noè analiza cómo la queja se ha convertido en un recurso habitual que alimenta la negatividad y no sirve para resolver nada, y propone anécdotas, ejercicios y estrategias para recuperar la autoestima, el entusiasmo y la responsabilidad sobre la propia vida. El libro se hizo célebre porque el papa Francisco colgó en la puerta de su habitación en Santa Marta el cartel de «Prohibido quejarse» que le regaló el autor, y que esta edición reproduce; el propio Papa firma el prólogo. Un libro de autoayuda con raíces cristianas, breve y de tono ligero.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 419,
+  "summary": "Twenty-seven converts to the Catholic Church tell, in their own words, how they came to it, in a collection edited by Robert Baram and published by the Daughters of St. Paul in 1987. The contributors range from philosophers and scholars—Peter Kreeft, Ronda Chervin, Paul Vitz—to Fr. James Parker, a former Episcopal clergyman, and lay men and women from Protestant, Jewish and secular backgrounds. Each account is short and personal, less an argument than a testimony, and together they show how many different roads lead to the same door. A good book to dip into.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 432,
+  "summary": "A brief pamphlet in Ascension Press's Theology of the Body series, edited by Christopher West and Katrina Zeno, that explains the Church's teaching on contraception in the light of St. John Paul II's theology of the body rather than as a bare rule. It sets out why the Church holds that the unitive and procreative meanings of the marital act belong together, how contraception alters the 'language of the body', and how natural family planning differs in kind, taking up the objections couples most often raise. Designed for pamphlet racks, marriage preparation and parish giveaways, it can be read in a single sitting.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 445,
+  "summary": "A slim question-and-answer booklet from chastity speaker Jason Evert, a Franciscan University graduate and Catholic Answers apologist, distilled from thousands of conversations with teenagers at his talks. In plain language it answers the questions young people actually ask about dating, sex and relationships, grounding each answer in Scripture and Church teaching with clarity and compassion. Meant to be handed to a teenager or used in youth groups, it is an accessible introduction to the case for chastity rather than a full treatment of the subject.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 8,
+  "summary": "Brandon Vogt, content director at Word on Fire, distills his ClaritasU online course into a practical handbook for Catholics who freeze up when the faith comes under fire at the dinner table or in a comment thread. Each chapter takes a hot-button topic—atheism, same-sex marriage, abortion, the Eucharist, the problem of suffering, the reliability of the Gospels—lays out what the Church actually teaches, anticipates the most common objections, and offers memorable, step-by-step talking points for answering calmly and persuasively. Later volumes continue the same format.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 20,
+  "summary": "Versión abreviada y oficial del Catecismo de la Iglesia Católica, promulgada por Benedicto XVI en 2005, que condensa en unas seiscientas preguntas y respuestas breves lo esencial de la fe: el Credo, los sacramentos, la vida moral y la oración. Conserva la estructura en cuatro partes del Catecismo mayor y añade un apéndice con las oraciones comunes y las fórmulas fundamentales de la doctrina, además de ilustraciones tomadas del arte sacro. Es un manual de consulta rápida, muy útil para la catequesis y para repasar de forma ordenada las verdades que todo católico debe conocer.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 32,
+  "summary": "Novela testimonial de Cynthia García Egea, cartagenera que dejó veinte años de trabajo en la banca para dedicarse a la evangelización y que colabora en Radio María. Su protagonista, Clara, es una joven adoradora que frecuenta la capilla de adoración perpetua de Murcia y se siente atraída por los testimonios manuscritos que otros adoradores han ido dejando allí; la trama, una historia de amor con Dios con sus resonancias humanas, se mueve entre Murcia y Polonia. El libro recoge testimonios eucarísticos reales y recientes que la autora recibió y transcribió, y que se dan a conocer aquí por primera vez.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 39,
+  "summary": "Ensayo del padre Fernando Felices Sánchez sobre la paternidad espiritual del sacerdote: esa dimensión del ministerio por la que el presbítero engendra, cuida y acompaña la vida de fe de los fieles, tema que el magisterio pontificio ha subrayado desde Pío XII y que interesa tanto a sacerdotes y seminaristas como a quienes ejercen la dirección espiritual.",
+  "confidence": "low"
+ },
+ {
+  "book_id": 45,
+  "summary": "A companion to his popular Bible Basics for Catholics, John Bergsma's guide walks readers through the New Testament by way of four of its principal voices—Matthew, Luke, Paul, and John—showing how each presents Jesus as the fulfillment of God's covenants with Israel. Bergsma, a Scripture professor at Franciscan University of Steubenville, keeps the tone conversational and the big picture always in view, in the same accessible style that made the first book a favorite of parish study groups. A good first step for Catholics who want to read the Gospels and Epistles with more understanding and confidence.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 49,
+  "summary": "A slim, take-along guide from Ascension Press, written by Fr. Mike Schmitz and Fr. Josh Johnson, to help Catholics make a good confession. It explains why the sacrament matters and what actually happens in it, walks step by step through how to confess (including the words to say), offers an examination of conscience, and answers the worries that keep people away—what if I forget a sin, what if I am embarrassed, how often should I go. Designed to be kept in a pocket or purse and reread before each visit to the confessional.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 58,
+  "summary": "Edición en español de la Biblia Católica de La Gran Aventura de Ascension Press, construida sobre el sistema de estudio de Jeff Cavins: los libros narrativos se agrupan en doce períodos codificados por colores, de modo que el lector pueda seguir la historia de la salvación, desde la creación hasta la Iglesia primitiva, como un solo relato. Además del texto bíblico completo, incluye la cronología, introducciones a cada libro y artículos sobre personajes y acontecimientos clave que ayudan a situar cada pasaje dentro del conjunto. Pensada para quien quiere leer la Biblia entera sin perderse.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 67,
+  "summary": "The student workbook that accompanies Understanding the Scriptures, Scott Hahn's textbook in the Didache Series used in Catholic high schools and parish programs. Chapter by chapter it supplies review questions, vocabulary, and exercises that reinforce the textbook's survey of salvation history—covenant, Exodus, kingdom, prophets, and the fulfillment of it all in Christ and the Church—so students can check their grasp of the material and connect it to the Catechism. A study aid rather than a stand-alone read; it is meant to be worked through alongside the main text.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 75,
+  "summary": "Written on the eve of Benedict XVI's election and published shortly after, this short book gathers Joseph Ratzinger's reflections on a Europe that has cut itself off from its Christian roots. He argues that a purely secular Enlightenment culture, having declared God irrelevant to public life, ends up undermining the very human dignity and reason it claims to defend, and he proposes that even unbelievers try to live 'as if God existed.' Later chapters take up the right to life, the relationship between faith and reason, and what it means to believe. Marcello Pera, then president of the Italian Senate, contributes a foreword.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 85,
+  "summary": "In 2009 Carolyn Savage learned she was pregnant—with another couple's child, after a fertility clinic transferred the wrong embryos. Devout Catholics who had hoped this would be their last chance to add to their family, Carolyn and Sean chose to carry the baby to term and hand him over to his genetic parents at birth. Their memoir recounts the medical mistake, the anguish and faith that carried them through the pregnancy, the delicate relationship with the other family, and the day they gave up the little boy they had come to love.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 104,
+  "summary": "The 1995 report of the Commission on Global Governance, an independent group of statesmen and scholars co-chaired by Ingvar Carlsson and Shridath Ramphal, sets out a wide-ranging agenda for managing the post–Cold War world. It examines security, economic interdependence, the rule of law, and the reform of the United Nations, and proposes a shared 'global civic ethic' to underpin cooperation among nations, international institutions, and civil society. Widely cited and equally widely debated, it remains a reference point in discussions of global governance.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 116,
+  "summary": "Sherry Foster, an experienced homeschooling mother, offers a practical guide to setting up and running a successful Catholic home school, from planning the year to holding on to a traditional Catholic vision of education. Published by The Remnant Press, it gathers many sources and references for completing a Catholic homeschooling curriculum, and it is aimed at parents who are considering home education or who want to put a firmer structure under what they are already doing.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 141,
+  "summary": "Guía ilustrada para niños de la colección Duendelibros (San Pablo), escrita por Christine A. Adams e ilustrada por R. W. Alley, que ayuda a los pequeños a reconocer, afrontar y superar los momentos de nervios y preocupación: la angustia de separarse de alguien querido, la incertidumbre ante lo desconocido, el miedo a los monstruos en la oscuridad. Con la ayuda de unos simpáticos duendecillos, el libro enseña a pararse a pensar, a poner los temores en su justa medida y a encontrar seguridad. Está pensado para leerlo juntos, niños y padres, abuelos o educadores.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 159,
+  "summary": "Cuento ilustrado que presenta a los niños la vida de san Josemaría Escrivá de Balaguer (1902-1975), fundador del Opus Dei, con la sencillez de un álbum: los rasgos principales de su historia y el mensaje de la Obra, nacida para recordar que cualquiera puede ser amigo íntimo de Jesús trabajando bien y ayudando a los demás a conocer y amar a Dios. Escrito por la valenciana Amparo Catret Mascarell, con ilustraciones de Mar Sánchez Marchori, abre la colección Amigos de Jesús de Ediciones Palabra.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 169,
+  "summary": "La escritora madrileña María Vallejo-Nágera, conocida por Entre el cielo y la tierra, sus historias sobre el purgatorio, se adentra aquí en las dos realidades últimas: el cielo y el infierno. Combina lo que enseña la Iglesia sobre ambos con testimonios de personas que aseguran haber tenido experiencias del más allá y con relatos de vidas transformadas, contrastando la alegría de vivir en gracia de Dios con la desolación del mal. Un ensayo divulgativo, escrito con el tono cercano que caracteriza a la autora, sobre lo que nos jugamos en esta vida.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 179,
+  "summary": "Valentín Aparicio Lara, sacerdote y profesor de Sagrada Escritura, propone una lectura del Apocalipsis de san Juan como clave para entender la crisis cultural y espiritual del presente. Desentraña los símbolos y mensajes del libro y los aplica a los desafíos ideológicos de nuestro tiempo, con la premisa de que detrás de ellos hay una batalla espiritual entre el bien y el mal. Más que una crónica del fin del mundo, presenta el Apocalipsis como una advertencia y una guía de supervivencia para el cristiano de hoy. Publicado por Ediciones Palabra.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 187,
+  "summary": "Set in Paris in 2048, Elena Chudinova's dystopian novel imagines a France governed by Islamic law, where Notre Dame has been converted into a mosque, Catholics who refuse to convert survive in ghettos, and a small underground of traditionalist believers and hardened resistance fighters plots to reclaim the cathedral for one last Mass. First published in Russia in 2005 and a bestseller there and in France, it reached English readers in this 2015 Remnant Press translation. Deliberately provocative, it is as much a lament for a Europe that has lost its faith as it is a thriller.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 202,
+  "summary": "El padre Rafael Fernández de Andraca, sacerdote chileno del Movimiento de Schoenstatt y autor de numerosos libros sobre su espiritualidad, ofrece en estas páginas una serie de meditaciones sobre el Ave María. Frase a frase, la oración más repetida por los católicos se convierte en una conversación con la Madre de Dios, al estilo cercano y afectivo con que Schoenstatt cultiva la Alianza de Amor con María. Publicado por Editorial Nueva Patris, es un libro breve para rezar despacio, meditando cada palabra.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 209,
+  "summary": "Cuaderno de preparación para la consagración al Inmaculado Corazón de María, organizado en 33 días —los años de la vida de Jesús— con oraciones, orientaciones y meditaciones para cada jornada, que culminan en el acto de consagración. Su título recoge la promesa de la Virgen en Fátima: «Por fin, mi Inmaculado Corazón triunfará». No es un libro de lectura corrida sino un recurso devocional: se usa día a día, a solas o en grupo, para disponer el corazón a entregarse a María y a colaborar en el triunfo que ella anunció.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 220,
+  "summary": "Clásico de la devoción mariana escrito por san Alfonso María de Ligorio, fundador de los redentoristas y doctor de la Iglesia, publicado por primera vez en 1750. La primera parte comenta frase por frase la Salve Regina —María como Madre de misericordia, vida, dulzura, esperanza y abogada nuestra—; la segunda reúne discursos sobre las fiestas de la Virgen, sus dolores y sus virtudes, con ejemplos y oraciones. Con abundantes citas de los Padres y de los santos, defiende la confianza filial en la intercesión de María como camino seguro hacia Cristo.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 225,
+  "summary": "Manual de mariología del teólogo claretiano José Cristo Rey García Paredes, publicado por la BAC dentro de la colección Sapientia Fidei de manuales de teología. Parte de la pregunta de si es posible justificar hoy la fe mariana y responde con una exposición renovada tras el Concilio Vaticano II: los fundamentos bíblicos, el desarrollo histórico y dogmático (maternidad divina, virginidad, Inmaculada Concepción, Asunción) y la dimensión simbólica y eclesial de la figura de María. Pensado para estudiantes de teología y lectores con formación, ha conocido varias ediciones ampliadas.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 235,
+  "summary": "An early collection of the interior locutions that Fr. Stefano Gobbi, an Italian priest, believed he received from the Blessed Virgin beginning in 1973, and which gave rise to the Marian Movement of Priests. Arranged by date, the messages call priests—and through them all the faithful—to consecration to Mary's Immaculate Heart, fidelity to the Pope, the Rosary, and trust amid the trials of the Church; later, expanded editions appeared under the title To the Priests, Our Lady's Beloved Sons. Widely used in cenacles of prayer, the messages are private revelation and are read as such.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 254,
+  "summary": "Dieciocho homilías de san Josemaría Escrivá, fundador del Opus Dei, publicadas póstumamente en 1977 como continuación de Es Cristo que pasa. Predicadas entre 1941 y 1968, tratan de las virtudes humanas y cristianas —la libertad, el desprendimiento, la humildad, la fortaleza, la sinceridad— y de la oración, el trabajo, la santidad en la vida ordinaria y el trato con Dios como amigo. Escritas en un lenguaje directo y lleno de anécdotas, siguen siendo una de las obras más leídas de la espiritualidad laical del siglo XX.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 262,
+  "summary": "The German historian Peter Berglar's biography of Josemaría Escrivá, published a few years after his beatification, follows the founder of Opus Dei from his childhood in Barbastro through the founding of the Work in Madrid in 1928, the Spanish Civil War, the move to Rome, and the worldwide growth of Opus Dei until his death in 1975. Berglar sets Escrivá's message—the sanctification of ordinary work and daily life—against the wider currents of twentieth-century Church history, writing as a sympathetic scholar rather than a hagiographer. A solid one-volume introduction to the man and the institution.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 274,
+  "summary": "Bishop Robert Barron's daily companion for Advent, published by Word on Fire, pairs the Gospel reading of each day with a short reflection and a brief prayer or thought to carry into the day. In his familiar voice—clear, scriptural, unafraid of a big idea—Barron draws out what the readings say about waiting, hope, repentance, and the coming of Christ, keeping the entries short enough for a busy December morning. Word on Fire issues an edition for each liturgical year, so the pages match the readings proclaimed at Mass.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 279,
+  "summary": "Ricardo Sada Fernández, sacerdote mexicano del Opus Dei, ingeniero y doctor en teología, con larga experiencia como predicador y director espiritual, ofrece consejos sencillos para aprender a hacer oración mental cada día. Apoyándose en los grandes contemplativos y en la experiencia de mucha gente corriente, trata del silencio, la paz interior y el recogimiento, de aprender a escuchar, de rezar con la Escritura y de pasar un rato ante la Eucaristía. Un libro práctico y alentador, publicado por Rialp, para quien quiere tratar a Dios como a un amigo.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 292,
+  "summary": "Quinto volumen de las Obras Completas de Edith Stein en español, editadas conjuntamente por Monte Carmelo, Editorial de Espiritualidad y El Carmen, que reúne los escritos espirituales de su etapa carmelitana. Aquí están La ciencia de la cruz, su gran estudio sobre san Juan de la Cruz, La oración de la Iglesia y numerosas meditaciones y textos histórico-doctrinales sobre la vida de oración y la mística. Con las introducciones y notas de los especialistas de la edición, es la puerta al pensamiento espiritual de santa Teresa Benedicta de la Cruz, la filósofa judía convertida y mártir en Auschwitz.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 303,
+  "summary": "Carlota Valenzuela, la joven que peregrinó a pie desde Finisterre hasta Jerusalén, guía este vía crucis recorriendo las estaciones tradicionales a través de las mujeres que, según los Evangelios y la tradición, acompañaron a Jesús en su Pasión: la Virgen María, María Magdalena, la Verónica, las mujeres de Jerusalén. Cada estación entrelaza pasaje bíblico, meditación y oración, para rezar la Pasión desde la mirada de las mujeres que estuvieron junto a Él. Publicado por Editorial Albada en la colección Inspiraciones, es un libro breve para Cuaresma o para cualquier viernes del año.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 314,
+  "summary": "Biografía ilustrada de santa Catalina Labouré (1806-1876), la humilde Hija de la Caridad a quien la Virgen se apareció en 1830 en la capilla de la rue du Bac, en París, y le encargó acuñar la Medalla Milagrosa. Escrita por Anne Prévost y publicada por Éditions du Signe, con versiones en varios idiomas, presenta su vocación, las apariciones y los largos años de servicio escondido en que guardó el secreto de lo que había visto. Un relato sencillo y accesible, adecuado también para lectores jóvenes.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 321,
+  "summary": "Santoral en varios tomos que ofrece, para cada día del año, la vida del santo o de los santos que la Iglesia celebra, siguiendo el calendario litúrgico. Obras de este tipo —la más conocida es la que publicó Edelvives en siete volúmenes— nacieron para alimentar la piedad familiar con una lectura diaria breve, y se usan como libro de cabecera, en la catequesis o simplemente para conocer al patrono del día y aprender de su ejemplo.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 341,
+  "summary": "Autobiografía espiritual de santa Teresa de Jesús, escrita por obediencia a sus confesores entre 1562 y 1565, y una de las cumbres de la prosa castellana. Teresa cuenta su infancia en Ávila, su entrada en el Carmelo, los años de tibieza y la conversión definitiva, y describe con una franqueza asombrosa los grados de la oración —los cuatro modos de regar el huerto—, sus visiones y arrobamientos, y la fundación del convento de San José. Esta edición corre a cargo de la editorial carmelitana Monte Carmelo, de Burgos.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 349,
+  "summary": "El periodista y escritor José María Zavala aplica su método documental y testimonial a la figura del Padre Pío de Pietrelcina (1887-1968), el capuchino de San Giovanni Rotondo que llevó los estigmas durante medio siglo y confesó a decenas de miles de personas. Más que una biografía al uso, el libro rastrea sus milagros —en vida y después de su muerte— a partir de testimonios inéditos de quienes lo conocieron y de sus colaboradores más cercanos, a los que Zavala visitó en Italia. Publicado por LibrosLibres, ha conocido varias ediciones ampliadas.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 357,
+  "summary": "Paul Thigpen gathers the testimonies of saints and other Catholic witnesses—from St. Teresa of Ávila and St. Faustina to St. John Bosco and the children of Fatima—who reported visions of hell, and sets them alongside what Scripture and the Church actually teach about the fate of the damned. Neither sensational nor squeamish, the book takes these accounts seriously as private revelation, asks what they have in common, and argues that a sober awareness of hell is meant to move us to repentance and to prayer for others. Published by TAN Books.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 362,
+  "summary": "Georges Chevrot (1879-1958), párroco de San Francisco Javier de París y uno de los predicadores más escuchados de su tiempo, reunió en este libro veinticuatro sermones que siguen, texto evangélico en mano, los principales pasajes en que aparecen juntos Jesús y Pedro: la llamada junto al lago, la confesión de Cesarea, las negaciones, el perdón a orillas del mar de Tiberíades. De cada escena extrae consecuencias directas para la vida cristiana —correspondencia a la vocación, formación apostólica, franqueza, generosidad—, y el resultado es un retrato del apóstol muy cercano a cualquier creyente con debilidades. Publicado en español por Rialp.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 367,
+  "summary": "Antología de textos de Juan Pablo II sobre los jóvenes —discursos, mensajes y homilías— seleccionados y ordenados por los monjes benedictinos de la Abadía de Solesmes, conocidos por sus compilaciones temáticas del magisterio pontificio, y publicada en español por Salvat en 1999. Recoge la confianza del Papa en las nuevas generaciones y sus llamadas a no tener miedo, a buscar la verdad y a aspirar a la santidad. Un volumen breve, más para consultar por temas que para leer de un tirón.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 381,
+  "summary": "The monumental life of the Blessed Virgin that the Spanish Franciscan abbess Venerable Mary of Jesus of Ágreda (1602–1665) wrote down as private revelation, in four parts—The Conception, The Incarnation, The Transfixion, and The Coronation—following Mary from her Immaculate Conception through the hidden life, the Passion, and the early Church to her Assumption and crowning in heaven. Rich in theological reflection and punctuated by 'instructions' the Virgin addresses to the reader, it has been read devotionally for more than three centuries despite early controversy. It carries no obligation of belief, but rewards slow, meditative reading.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 396,
+  "summary": "A collaboration between Russell Kolts, a clinical psychologist who works with compassion-focused therapy, and Thubten Chodron, an American Buddhist nun, this book offers short, practical reflections on cultivating compassion for oneself and for others. Alternating between the psychological and the contemplative perspective, the authors cover working with anger and fear, self-criticism, forgiveness, and staying open-hearted in difficult relationships, each entry closing with a simple exercise. It is not a Christian book, but readers of any tradition may find its guidance on patience and kindness useful.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 412,
+  "summary": "El padre Robert DeGrandis, sacerdote josefita muy conocido en la Renovación Carismática, y Linda Schubert exponen la sanación intergeneracional: la idea de que las heridas, pecados y ataduras de nuestros antepasados pueden seguir influyendo en las generaciones actuales —adicciones, violencia, enfermedad mental, infidelidad— y de que el perdón y la oración, sobre todo en la Eucaristía, pueden romper esas cadenas. El libro combina enseñanza, testimonios y oraciones para liberar el árbol genealógico, e incluye orientaciones para celebrar una misa de sanación intergeneracional. Publicado originalmente en 1992, es un texto de referencia en los ministerios de sanación.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 426,
+  "summary": "Two of Cicero's late philosophical dialogues, written in 44 BC and read continuously ever since. In Laelius on Friendship the Roman statesman reflects on what makes friendship genuine—shared virtue, loyalty, honesty even when it hurts—and in Cato the Elder on Old Age he puts into the mouth of the aged Cato a defense of the later years as a time of wisdom, usefulness, and calm. This inexpensive edition reprints a classic public-domain English translation and makes a good first encounter with a writer the Church Fathers themselves admired.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 435,
+  "summary": "Christopher Baglow's textbook, published by Midwest Theological Forum for Catholic high schools and introductory college courses, argues that faith and science are not rivals but complementary ways of knowing the one truth. It surveys the history of the question—Galileo, Darwin, the Big Bang, and the believing scientists behind many of the discoveries—explains what the Church actually teaches about creation, evolution, and the human person, and shows how modern cosmology and biology can be read in harmony with Scripture and Tradition. This revised second edition appeared in 2019.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 446,
+  "summary": "A short Ascension Press booklet in which Monica Ashour, founder of the Theology of the Body Evangelization Team, brings the insights of St. John Paul II's Theology of the Body to bear on the online world. Written especially for teens and young adults, it asks how to use social networking without disappearing into it—how to protect real friendship, honesty, and modesty online, and how to keep the screen from replacing face-to-face presence. Brief enough to read in a sitting and meant to prompt discussion at home or in a youth group.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 13,
+  "summary": "Traducción castellana de la célebre Bible de Jérusalem, preparada bajo la dirección de la Escuela Bíblica y Arqueológica de Jerusalén y publicada en España por Desclée De Brouwer. Es apreciada tanto por su fidelidad a los textos originales hebreo, arameo y griego como por su abundante aparato de introducciones y notas —históricas, literarias y teológicas— que la convierten en una Biblia de estudio y, a la vez, de lectura y oración. Sus sucesivas ediciones se han ido revisando conforme a los avances de la exégesis católica.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 23,
+  "summary": "Catecismo redactado por encargo de san Pío X y publicado en 1905 para unificar la enseñanza de la doctrina en las diócesis italianas, que pronto se difundió por todo el mundo católico. Expone la fe en el clásico formato de preguntas y respuestas breves, ordenadas en torno al Credo, los sacramentos, los mandamientos, la oración y las virtudes, con una claridad que lo hizo memorizable para los niños y útil para los adultos. Sigue siendo valorado por su precisión y concisión, y se reedita como complemento de los catecismos actuales.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 33,
+  "summary": "Breve obra de lectura y contemplación espiritual sobre la cruz de Cristo, escrita por el sacerdote argentino Néstor Hugo Orsi. El autor no se detiene en la reconstrucción histórica ni en la arqueología bíblica: se ciñe al núcleo espiritual de los relatos de la Pasión y busca mostrar su dimensión salvífica, con un propósito claramente pastoral, para que lo que sucedió una vez en Jerusalén siga irradiando en la vida interior de quienes hoy se llaman discípulos de Cristo. Un librito apto para la meditación de Cuaresma y Semana Santa.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 41,
+  "summary": "El célebre «Denzinger»: la colección de referencia de símbolos de la fe, definiciones y declaraciones del Magisterio de la Iglesia en materia de fe y costumbres, desde los primeros credos hasta el pontificado reciente. Iniciada por Heinrich Denzinger en 1854 y puesta al día por Peter Hünermann, esta edición bilingüe de Herder ofrece los textos originales en latín o griego junto a la traducción castellana, numerados y acompañados de índices que permiten localizar rápidamente cualquier enseñanza. Herramienta indispensable de consulta para teólogos, catequistas y cualquier lector que quiera acudir a las fuentes.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 46,
+  "summary": "Traducción actual y comentada del Nuevo Testamento a cargo de Antonio Fuentes Mendiola, sacerdote de la Prelatura del Opus Dei y profesor de Sagrada Escritura, hecha sobre los textos originales y teniendo en cuenta la Neovulgata. Concebida como edición pastoral, acompaña el texto sagrado con introducciones y notas breves pensadas para el estudiante de religión, la catequesis parroquial y la lectura personal y familiar, en un volumen manejable dirigido a lectores de España y de América.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 53,
+  "summary": "A classic pictorial catechism first issued in France by the Bonne Presse (1909) under Fr. R. P. Bailly, and reprinted in a large-format hardcover for today's families. Some seventy full-color plates illustrate the truths of the faith — the Creed, the sacraments, the Ten Commandments and the precepts of the Church, prayer, sin and virtue, the works of mercy and the Last Things — while the facing text explains the Church's teaching and then unpacks the symbolism of each picture. It is designed to be read with children, who can follow the lesson through the image while a parent points out the details.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 60,
+  "summary": "A one-volume history of the Catholic Church, following the Christian people from the apostolic age forward through persecution, expansion, controversy and reform, and the shaping of the Church's institutions and teaching. Several well-known Catholic works share this title — from the fourth-century chronicle of Eusebius of Caesarea to modern survey histories used in schools and parishes — and without an author recorded the exact edition cannot be identified.",
+  "confidence": "low"
+ },
+ {
+  "book_id": 71,
+  "summary": "An illustrated introduction, for readers about seven and up, to twenty-five Catholics behind landmark discoveries in science and mathematics, from anatomy to astrophysics. Written by David Michael Warren and illustrated by Jaclyn Warren, and published by Pauline Books & Media in partnership with the Word on Fire Institute, each profile gives a few pages of lively text and a full-page portrait, drawing out the intellectual curiosity, wonder at God's creation and desire to serve others that these believers shared. A cheerful answer, in a child's hands, to the idea that faith and science are at odds.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 79,
+  "summary": "Novela del sacerdote y vaticanista irlandés Malachi Martin, publicada originalmente en inglés en 1996 como Windswept House y recuperada en español por Homo Legens. Arranca con una ceremonia secreta de entronización de Satanás en una capilla vaticana en 1963 y, treinta años después, sigue la conspiración de eclesiásticos, políticos y financieros —unidos por la masonería, la ideología globalista y la sumisión al mal— que pretende poner a la Iglesia al servicio de un gobierno mundial y sólo tropieza con un obstáculo: el «Papa eslavo». Un thriller eclesiástico denso y polémico sobre las luchas de poder en la Iglesia posconciliar.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 87,
+  "summary": "Un librito de meditación sobre san José escrito por la argentina Thelma Caminos de Lastra, asistente social formada en la Universidad Católica Argentina, coordinadora del movimiento mariano contemplativo Soledad Mariana y ministra de la Eucaristía en la parroquia del Patrocinio de San José de Buenos Aires. Como advierte la propia autora, no pretende ser un estudio histórico ni exegético, sino una aproximación sencilla y devota al misterio de amor que rodea al esposo de María y padre adoptivo de Jesús, pensada para alimentar la oración personal.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 105,
+  "summary": "La escritora madrileña María Vallejo-Nágera, una de las autoras de temática religiosa más leídas en España, reúne aquí una serie de historias reales y extraordinarias que giran en torno a la adoración eucarística. Sus protagonistas —entre ellos la propia autora— se encuentran con Jesús Eucaristía de maneras sorprendentes, y a través de sus relatos el lector descubre cómo los creyentes hallan en el Sagrario un anticipo del Cielo, un lugar donde buscar consuelo y respuestas. Escrito con el tono cercano y narrativo que caracteriza a la autora de Entre el cielo y la tierra.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 127,
+  "summary": "The French surgeon Alexis Carrel, later a Nobel laureate in medicine, travelled to Lourdes in 1902 as a skeptical young doctor accompanying a train of sick pilgrims. In this short account, written in the third person and published only after his death, he describes watching a dying young woman with tubercular peritonitis recover before his eyes at the grotto, and the turmoil the event caused in a scientist who had lost his faith. Slim and candid, it is a classic testimony of a rationalist confronted with the inexplicable.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 142,
+  "summary": "Un pequeño libro ilustrado de la colección Duendelibros de San Pablo, con textos de J. S. Jackson y los simpáticos duendes dibujados por R. W. Alley. En pocas páginas recuerda que, entre el trabajo, el colegio y las actividades, la tarea más importante es reservar tiempo para los momentos en familia, porque una vida familiar estable da hijos felices y seguros, y el hogar es donde se transmiten los valores, las tradiciones y la fe. Consejos breves y afectuosos para leer de un tirón o para regalar.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 160,
+  "summary": "William Steig's Caldecott Medal winner (1970) tells the story of Sylvester Duncan, a young donkey who collects pebbles and one rainy day finds a red one that grants wishes. Startled by a lion, he wishes himself into a rock — and finds he cannot wish himself back, while his heartbroken parents search for him through the changing seasons. Warm, funny and quietly moving, with Steig's expressive watercolors, it is a picture book about family love and the joy of being reunited that has become a classic for reading aloud.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 173,
+  "summary": "Comentario teológico, espiritual y literario al Apocalipsis, obra de madurez del jesuita argentino Leonardo Castellani (1899-1981), escritor, filósofo y uno de los pensadores católicos más originales del siglo XX en lengua española. Fruto de muchos años de estudio del último libro de la Escritura, lo expone con fidelidad a la Tradición y una claridad poco común, en un estilo vibrante y a veces irónico pero siempre sacerdotal, insistiendo en que el Apocalipsis no es un libro de terror sino de esperanza. Ha sido reeditado en España con prólogo de Juan Manuel de Prada.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 180,
+  "summary": "El sacerdote español Javier Luzón Peña parte de la advertencia que el cardenal Fernando Sebastián dirigió en 2015 a los obispos —«no podemos seguir celebrando en falso los sacramentos»— para examinar con crudeza el estado de la Iglesia en Occidente. A lo largo de casi trescientas páginas analiza la distancia entre lo que se celebra y lo que se vive, rastrea sus raíces históricas y llama a una renovación que devuelva a los sacramentos su verdad. Un ensayo pastoral incómodo y apasionado.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 188,
+  "summary": "A widely circulated compendium from the early 1990s in which Ted and Maureen Flynn gather Marian apparitions and prophetic messages — Fatima, Garabandal, Akita, Medjugorje and many others — and read them together as a coherent warning for our times. The book lays out the sequence its sources describe: a Warning (an illumination of conscience), a great Miracle, a Chastisement, and finally an Era of Peace under the triumph of the Immaculate Heart, presented as God's ultimate acts of mercy rather than of wrath. It also surveys the state of the culture and the Church, urging prayer, conversion and consecration.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 205,
+  "summary": "Traducción de The World's First Love (1952), uno de los libros más queridos del arzobispo estadounidense Fulton J. Sheen. Sheen presenta a María como el «primer amor del mundo», la mujer pensada por Dios desde la eternidad, y recorre su vida y sus privilegios —la Inmaculada Concepción, la Anunciación, la maternidad divina, la Asunción— para mostrar lo que revelan sobre Dios, sobre la mujer y sobre cada persona humana. Con su prosa elegante y sus aplicaciones al mundo moderno (el matrimonio, la pureza, el rosario, incluso Fátima y Rusia), es una introducción de peso a la devoción mariana.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 213,
+  "summary": "Estudio histórico sobre los acontecimientos de San Sebastián de Garabandal (Cantabria), donde entre 1961 y 1965 cuatro niñas afirmaron recibir apariciones de la Virgen del Carmen y del arcángel san Miguel. El sacerdote José Luis Saavedra, doctor en Teología por la Universidad de Navarra, condensa aquí la investigación de su tesis doctoral en Teología Histórica: reconstruye con documentación de primera mano lo que ocurrió, los mensajes, los éxtasis y la reacción de la Iglesia, combinando rigor académico con un estilo sencillo y de fácil lectura. Un punto de partida serio para conocer el caso más allá de la polémica.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 222,
+  "summary": "Bajo este título circulan, en varios tomos, los mensajes de revelación privada atribuidos a la Virgen María y recibidos por un alma colombiana a la que Jesús llama «Agustín del Divino Corazón», publicados en Bogotá por la Fundación Apostolado por el Triunfo del Corazón Inmaculado de María. En ellos María se presenta como maestra que forma a sus «apóstoles de los últimos tiempos»: llama a la conversión, a la consagración a su Corazón Inmaculado y al rezo del Rosario, e incluye devociones como un Vía Crucis y oraciones por las almas del purgatorio. Como toda revelación privada, se lee con discernimiento.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 226,
+  "summary": "Federico Suárez (1917-2005), a Spanish priest and historian of the Prelature of Opus Dei, walks through the Gospel scenes of Our Lady's life — the Annunciation, the Visitation, the Presentation in the Temple, the hidden years at Nazareth, Cana, and the sorrows of Calvary — as material for meditation rather than scholarship. His constant point is that Mary is not only to be admired but imitated: he pays special attention to her vocation and her wholehearted response to it, offering her as the supreme example of holiness sought in ordinary circumstances. A companion to his Joseph of Nazareth.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 243,
+  "summary": "The spiritual diary of Elizabeth Kindelmann (1913-1985), a Hungarian widow and mother of six who, from 1961 onward, recorded interior locutions she attributed to Jesus and Mary. At their heart is the «Flame of Love» of the Immaculate Heart of Mary, a grace promised to blind Satan and pour out on the world, together with practical requests: a short petition added to the Hail Mary, fasting, night vigils and family holy hours, and Thursday and Friday reparation. This edition presents the diary as approved by Cardinal Péter Erdő of Esztergom-Budapest, who granted the movement an imprimatur in 2009.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 256,
+  "summary": "Veintitrés relatos biográficos de lituanos, letones, estonios y rusos —de profesiones y orígenes muy diversos— que defendieron su fe y sus convicciones bajo el régimen soviético o las encontraron mientras luchaban por la libertad: algunos sufrieron cárcel, destierro o tortura; otros el ostracismo social o la deportación a Siberia. El periodista y escritor José Miguel Cejas (1952-2016) los recogió a lo largo de tres años de viajes por los países bálticos hasta la frontera rusa, y tomó el título del tercer movimiento de un concierto para flauta de Vivaldi, imagen de la alegría que sigue a la tormenta.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 263,
+  "summary": "A compact manual of prayers associated with the Prelature of Opus Dei and the spirituality of St. Josemaría Escrivá. Booklets of this kind typically gather the basic Catholic prayers, prayers for Mass and Communion, the Rosary and other Marian devotions, examination of conscience and prayers to St. Joseph and to St. Josemaría himself, arranged so that they can be carried and used through the day rather than read straight through. Without an author or edition recorded, it cannot be tied to a specific printing; Scepter's Handbook of Prayers, compiled by Fr. James Socías, is the best known of these.",
+  "confidence": "low"
+ },
+ {
+  "book_id": 276,
+  "summary": "An anthology assembled by Matthew Kelly and Dynamic Catholic during the National Eucharistic Revival in the United States, in which more than twenty voices reflect on the Eucharist — among them Fr. Mike Schmitz, Peter Kreeft, Bishop Andrew Cozzens, Jackie and Bobby Angel, Lisa Hendey, Sister Helena Burns and Allen Hunt, alongside a classic piece from Fulton Sheen. The short chapters mix personal testimony, catechesis and practical encouragement about Mass, adoration and the Real Presence. Easy to read in small pieces, it aims to reawaken wonder at what Catholics receive at every Mass.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 280,
+  "summary": "Devocionario dedicado a la Preciosísima Sangre de Nuestro Señor Jesucristo, una devoción de raíces antiguas que la Iglesia celebra especialmente en el mes de julio. Este tipo de opúsculo suele reunir las oraciones propias del culto: la letanía de la Preciosísima Sangre, el ofrecimiento y la coronilla, actos de consagración y reparación, y breves consideraciones sobre el valor redentor de la Sangre derramada en la Pasión. Está pensado para la oración personal o en grupo más que para la lectura seguida.",
+  "confidence": "low"
+ },
+ {
+  "book_id": 295,
+  "summary": "Written by «Anne», the pen name of Kathryn Ann Clarke, an American mother living in Ireland whose messages have been published since 2003 by Direction for Our Times, this 2008 guide is addressed to the «lay apostles of Jesus Christ the Returning King», the apostolate that grew up around those writings. In reflections and short stories Anne offers direction on drawing closer to Jesus and living one's vocation with holiness, love and obedience to the Church, and describes her mystical experiences of the «Mountain of Holiness», in which she says Jesus showed her the condition of the world to spur lay apostles on in the rescue mission for souls.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 305,
+  "summary": "Un texto de santa Teresa de Lisieux para cada día del año, extraído sobre todo de sus manuscritos autobiográficos y seleccionado por el carmelita descalzo José Vicente Rodríguez (1926-2022), uno de los mayores especialistas en la espiritualidad del Carmelo, que ya había preparado para San Pablo un volumen semejante con san Juan de la Cruz. Las lecturas breves permiten asomarse tanto a los recuerdos y experiencias de la santa, patrona universal de las misiones, como al núcleo de su mensaje espiritual, el «caminito» de la confianza. Un libro para tener en la mesilla de noche.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 317,
+  "summary": "La vida de san Francisco de Asís contada por el capuchino Ignacio Larrañaga (1928-2013), autor de El Pobre de Nazaret y fundador de los Talleres de Oración y Vida. Más que una biografía erudita, es un retrato interior: Larrañaga sigue a Francisco desde su juventud en Asís hasta la Porciúncula, el monte Alverna y el Cántico de las criaturas, deteniéndose en su experiencia de Dios, su amor a la pobreza y a la creación, sus luchas y su alegría, y busca que el lector no sólo admire al santo sino que se contagie de su espíritu. Uno de los libros más leídos del autor y una excelente puerta de entrada al franciscanismo.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 326,
+  "summary": "Recopilación, publicada por Ediciones Palabra en su serie de discursos y homilías pontificias, de los textos que Juan Pablo II pronunció durante su cuarto viaje apostólico a Polonia (junio de 1991) —el primero tras la caída del comunismo, articulado en torno al Decálogo como fundamento moral de una nación recién liberada— y en la VI Jornada Mundial de la Juventud celebrada en Czestochowa en agosto de ese año, a la que acudieron por primera vez en masa jóvenes del antiguo bloque soviético. Un documento de primera mano de un momento clave del pontificado y de la historia de Europa.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 342,
+  "summary": "St. Athanasius of Alexandria's fourth-century life of St. Anthony the Great, the Egyptian hermit regarded as the father of monasticism — one of the most influential biographies ever written, which helped spark the monastic movement and figures in the conversion of St. Augustine. It recounts Anthony's renunciation of his inheritance, his years of solitude and combat with demons in the desert, his teaching to the monks who gathered around him, his defense of the faith against the Arians and his peaceful death at a great age. This is a plain, inexpensive reprint of a classic English translation for the general reader.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 350,
+  "summary": "El vaticanista italiano Marco Tosatti reconstruye, a partir de biografías, cartas, testimonios y la Positio inédita del proceso de canonización, la lucha —a menudo física— que san Pío de Pietrelcina mantuvo con el demonio desde niño hasta su muerte. Junto a la historia del Padre Pío, el libro recoge los casos de otros santos que sufrieron los ataques más duros del Maligno, incluida la posesión, y reflexiona sobre el sentido de ese combate en la vida cristiana. La edición española lleva prólogo del sacerdote Lucio Ángel Vallejo Balda.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 358,
+  "summary": "Una vida de san Agustín (354-430), obispo de Hipona, doctor de la Iglesia y autor de las Confesiones y La ciudad de Dios: el joven inquieto de Tagaste, su paso por el maniqueísmo y la retórica en Cartago, Roma y Milán, la influencia de su madre santa Mónica y de san Ambrosio, la conversión de 386 y sus décadas de obispo, predicador y polemista en el norte de África. Sin autor registrado no puede precisarse la edición, pero el título corresponde a una biografía de divulgación del gran Padre de la Iglesia.",
+  "confidence": "low"
+ },
+ {
+  "book_id": 363,
+  "summary": "Antología de textos de Juan Pablo II sobre el matrimonio y la familia, preparada por Salvat en 1999, cuando el Papa polaco llevaba dos décadas predicando el «evangelio de la familia» por todos los continentes. La selección permite acercarse a su enseñanza —el amor esponsal, la apertura a la vida, la educación de los hijos, la familia como «iglesia doméstica» y primera escuela de humanidad— tal como la fue desarrollando en documentos como Familiaris consortio y la Carta a las familias y en innumerables homilías y discursos. Una introducción manejable a uno de los ejes de su pontificado.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 370,
+  "summary": "Las obras completas de santa Teresa del Niño Jesús y de la Santa Faz en un solo volumen: los tres manuscritos autobiográficos conocidos como Historia de un alma, las cartas, las poesías, las «recreaciones piadosas» que escribió para el Carmelo, las oraciones y las Últimas conversaciones recogidas por sus hermanas. La edición española de referencia es la de Editorial Monte Carmelo (Burgos), traducida de la edición crítica francesa, con introducciones y notas que sitúan cada texto en la breve vida de la doctora de la Iglesia. Imprescindible para quien quiera ir más allá de la autobiografía.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 385,
+  "summary": "Dorothy Scallan's 1954 life of St. Thérèse of Lisieux, written in the flowing style of a novel and long kept in print by TAN Books. It begins before the saint's birth with her parents Louis and Zélie Martin, follows the family through Thérèse's childhood, the entry of all five sisters into religious life, her own admission to Carmel at fifteen and her death from tuberculosis at twenty-four, and closes on the promises she made near the end — that her story would be published, that she would let fall a shower of roses, and that «the whole world will love me». A warm narrative introduction to the Little Flower for young readers and adults alike.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 402,
+  "summary": "Clásico de la espiritualidad laical publicado por primera vez en 1948 y reeditado innumerables veces, obra del sacerdote vasco Jesús Urteaga (1921-2009), de la Prelatura del Opus Dei. Con un tono directo, juvenil y a veces provocador, Urteaga sostiene que la santidad no exige huir del mundo sino vivir en él con hondura: el trabajo, la amistad, el deporte, el amor humano, la alegría y hasta el sufrimiento tienen «valor divino» cuando se viven de cara a Dios. Fue uno de los libros que más contribuyó a difundir entre los jóvenes de la posguerra la llamada universal a la santidad.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 413,
+  "summary": "El coach ejecutivo y conferenciante Borja Milans del Bosch, fundador de Coaching 360, propone un modelo de «liderazgo ejemplar» o humanista que va más allá de las competencias y apunta a la persona: brillar sin necesidad de ser estrella en nada. Lo apoya en cuatro pilares que hay que entrenar toda la vida —mentalidad positiva, coraje ante la adversidad, valores humanos y gestión del ego— y lo ilustra con su experiencia de trabajo con equipos y organizaciones. Publicado por EUNSA, es un libro breve y práctico para quien dirige personas en la empresa, en la familia o en cualquier otro ámbito.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 428,
+  "summary": "James B. Stenson, a veteran American educator and writer on family life, offers parents of young children a discussion framework rather than a manual: there is no magic formula for good parenting, he says, but couples can learn from one another and plan ahead for the challenges that are sure to come. Each section pairs observations on character formation — responsibility, self-control, respect for others, the family's use of time — with questions designed for a couple to talk over together or in a small group of parents. Slim, sober and practical, it is well suited to parenting courses and study circles.",
+  "confidence": "medium"
+ },
+ {
+  "book_id": 438,
+  "summary": "A short, straightforward pamphlet from Jason Evert, co-founder with his wife Crystalina of the Chastity Project, aimed at parents and educators who feel ill-equipped to raise the subject. Evert surveys the cultural trends shaping teenagers' attitudes to sex, explains why young men and women drift into promiscuity, and offers ten practical strategies for parents, along with tips on communicating so that skeptical teens will actually listen. It is meant to give adults the confidence to talk about sex, dating and love from a Catholic perspective.",
+  "confidence": "high"
+ },
+ {
+  "book_id": 448,
+  "summary": "The new official translation of all 150 Psalms and a selection of Old and New Testament canticles, prepared over more than twenty years by the Benedictine monks of Conception Abbey in Missouri in collaboration with the U.S. bishops and the Holy See, and destined for future editions of the Liturgy of the Hours and the Lectionary in the United States. Ascension's hardcover edition presents the text with a clean, readable page design and colored tabs for navigation, making it suitable for praying the psalms at home, for study, and for musicians and liturgists. The translation aims at accuracy joined to poetry — language that can be sung as well as read.",
+  "confidence": "high"
+ }
+]
